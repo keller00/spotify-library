@@ -1,0 +1,20 @@
+name: Backup Spotify "Your Music" library
+
+on:
+  schedule:
+        - cron: 0 4 * * *
+  workflow_dispatch:
+
+jobs:
+  pre-commit:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v3
+    - uses: keller00/spotify-tracks-archiver-action@main
+      with:
+        output-file: library.json
+      env:
+        CLIENT_ID: ${{ secrets.CLIENT_ID }}
+        CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
