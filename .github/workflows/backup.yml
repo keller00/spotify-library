@@ -2,7 +2,7 @@ name: Backup Spotify "Your Music" library
 
 on:
   schedule:
-        - cron: 0 4 * * *
+        - cron: 0 4 * * 6
   workflow_dispatch:
 
 jobs:
