@@ -1,5 +1,11 @@
 [
     {
+        "artists": "Crankdat",
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U",
+        "album": "Ding Dong"
+    },
+    {
         "artists": "Flux Pavilion",
         "name": "Lore",
         "url": "https://open.spotify.com/track/0W3b6YlEKoj1g5pNUPB6sw",
@@ -2970,12 +2976,6 @@
         "album": "Apex"
     },
     {
-        "artists": "Excision",
-        "name": "Fall",
-        "url": "https://open.spotify.com/track/3jWAHG4UMHXXFZr7zYlQ9y",
-        "album": "Apex"
-    },
-    {
         "artists": "Excision, Dion Timmer",
         "name": "Home",
         "url": "https://open.spotify.com/track/0AuFxpp4TJyybt9vv5fUnQ",
@@ -3003,6 +3003,12 @@
         "artists": "Excision",
         "name": "Exterminate",
         "url": "https://open.spotify.com/track/50KRTa8wjCeaZaxZnPT3Bd",
+        "album": "Apex"
+    },
+    {
+        "artists": "Excision",
+        "name": "Fall",
+        "url": "https://open.spotify.com/track/3jWAHG4UMHXXFZr7zYlQ9y",
         "album": "Apex"
     },
     {
@@ -4140,12 +4146,6 @@
         "album": "Lost Lands 2017 Compilation"
     },
     {
-        "artists": "Excision, Sullivan King, MADI",
-        "name": "With You - Sullivan King Remix",
-        "url": "https://open.spotify.com/track/43gDKsZxlgTF1TL0Wthz6d",
-        "album": "Lost Lands 2017 Compilation"
-    },
-    {
         "artists": "Spag Heddy, Tisoki",
         "name": "Jok",
         "url": "https://open.spotify.com/track/0WXpzuD2wIx4F1We9B0dB6",
@@ -4233,6 +4233,12 @@
         "artists": "Chime",
         "name": "Wait for Me",
         "url": "https://open.spotify.com/track/5wR0lpSxCwyOihwtC7mxCH",
+        "album": "Lost Lands 2017 Compilation"
+    },
+    {
+        "artists": "Excision, Sullivan King, MADI",
+        "name": "With You - Sullivan King Remix",
+        "url": "https://open.spotify.com/track/43gDKsZxlgTF1TL0Wthz6d",
         "album": "Lost Lands 2017 Compilation"
     },
     {
@@ -4734,12 +4740,6 @@
         "album": "Excision 2016 Mix Compilation"
     },
     {
-        "artists": "Ray Volpe",
-        "name": "Full Control",
-        "url": "https://open.spotify.com/track/5uW20JIYVmaiocqWADbkZE",
-        "album": "Excision 2016 Mix Compilation"
-    },
-    {
         "artists": "Wavedash",
         "name": "Bang",
         "url": "https://open.spotify.com/track/2Zx8f14aPByIGhEcmOJRS9",
@@ -4803,6 +4803,12 @@
         "artists": "Dion Timmer, Excision",
         "name": "Final Boss",
         "url": "https://open.spotify.com/track/5zTQvyJ9w9ju0f9KtqZjgE",
+        "album": "Excision 2016 Mix Compilation"
+    },
+    {
+        "artists": "Ray Volpe",
+        "name": "Full Control",
+        "url": "https://open.spotify.com/track/5uW20JIYVmaiocqWADbkZE",
         "album": "Excision 2016 Mix Compilation"
     },
     {
@@ -5089,12 +5095,6 @@
     },
     {
         "artists": "Belly",
-        "name": "Favorite Color",
-        "url": "https://open.spotify.com/track/1h6xQI4HVS0TBDSvFd5kA9",
-        "album": "Another Day In Paradise"
-    },
-    {
-        "artists": "Belly",
         "name": "Amsterdam",
         "url": "https://open.spotify.com/track/0qM2TOLdkDRd33MpBgBMRC",
         "album": "Another Day In Paradise"
@@ -5133,6 +5133,12 @@
         "artists": "Belly",
         "name": "Another Day In Paradise",
         "url": "https://open.spotify.com/track/46Am2T9vQgXAp7MowmtcgO",
+        "album": "Another Day In Paradise"
+    },
+    {
+        "artists": "Belly",
+        "name": "Favorite Color",
+        "url": "https://open.spotify.com/track/1h6xQI4HVS0TBDSvFd5kA9",
         "album": "Another Day In Paradise"
     },
     {
@@ -5340,12 +5346,6 @@
         "album": "#SzuperCsillagParaszt"
     },
     {
-        "artists": "Killakikitt, Snowgoons",
-        "name": "Égszakadás",
-        "url": "https://open.spotify.com/track/3943CEvDIs6WUnO3SlEq8j",
-        "album": "KillaGoons"
-    },
-    {
         "artists": "Killakikitt, Snowgoons, Onyx",
         "name": "Bazdmeg",
         "url": "https://open.spotify.com/track/0xAKLHn9ntp07JgAqGQoxE",
@@ -5397,6 +5397,12 @@
         "artists": "Killakikitt, Snowgoons, Vészk'járat",
         "name": "Sebhelyek",
         "url": "https://open.spotify.com/track/36kPUxXergLwLkLWDJQseW",
+        "album": "KillaGoons"
+    },
+    {
+        "artists": "Killakikitt, Snowgoons",
+        "name": "Égszakadás",
+        "url": "https://open.spotify.com/track/3943CEvDIs6WUnO3SlEq8j",
         "album": "KillaGoons"
     },
     {
@@ -5559,12 +5565,6 @@
         "artists": "David Guetta, Showtek, MAGIC!, Sonny Wilson",
         "name": "Sun Goes Down (feat. MAGIC! & Sonny Wilson)",
         "url": "https://open.spotify.com/track/0yUyDkdZzTKHspyZDxhcpw",
-        "album": "Listen Again"
-    },
-    {
-        "artists": "David Guetta",
-        "name": "The Whisperer (feat. Sia)",
-        "url": "https://open.spotify.com/track/4cuPA0oi93GD4tRLZsV7cs",
         "album": "Listen Again"
     },
     {
@@ -5739,6 +5739,12 @@
         "artists": "David Guetta",
         "name": "I'll Keep Loving You (feat. Birdy & Jaymes Young)",
         "url": "https://open.spotify.com/track/4p500399T5Hb9y24HpnjPR",
+        "album": "Listen Again"
+    },
+    {
+        "artists": "David Guetta",
+        "name": "The Whisperer (feat. Sia)",
+        "url": "https://open.spotify.com/track/4cuPA0oi93GD4tRLZsV7cs",
         "album": "Listen Again"
     },
     {
@@ -5988,12 +5994,6 @@
         "album": "MELBOURNE BOUNCE"
     },
     {
-        "artists": "Yogi, Crookers",
-        "name": "Burial - Crookers Remix",
-        "url": "https://open.spotify.com/track/14LpKjbFS3A82riq3jUqw5",
-        "album": "Burial - The Remixes"
-    },
-    {
         "artists": "Yogi, Moody Good",
         "name": "Burial - Moody Good Remix",
         "url": "https://open.spotify.com/track/0ZPG85jFTwMOsFtqkUBu4v",
@@ -6003,6 +6003,12 @@
         "artists": "Yogi, Skrillex, Trollphace",
         "name": "Burial - Skrillex & Trollphace Remix",
         "url": "https://open.spotify.com/track/43iMSSpAQ9fYvKdvjf3ca2",
+        "album": "Burial - The Remixes"
+    },
+    {
+        "artists": "Yogi, Crookers",
+        "name": "Burial - Crookers Remix",
+        "url": "https://open.spotify.com/track/14LpKjbFS3A82riq3jUqw5",
         "album": "Burial - The Remixes"
     },
     {
@@ -6288,12 +6294,6 @@
         "album": "Shell Shock Legends"
     },
     {
-        "artists": "501",
-        "name": "Kill Your Boss",
-        "url": "https://open.spotify.com/track/09heOZPtaHP1wNZRVyVR9F",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
         "artists": "Excision",
         "name": "Shadowflame",
         "url": "https://open.spotify.com/track/07LUB7tviYSc6YkIF0VMwR",
@@ -6339,6 +6339,12 @@
         "artists": "The Frim, Excision, Luciana",
         "name": "Night Shine - Bear Grillz Remix",
         "url": "https://open.spotify.com/track/3BCoLDOSdudJ8qCGVHqmVw",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
+        "artists": "501",
+        "name": "Kill Your Boss",
+        "url": "https://open.spotify.com/track/09heOZPtaHP1wNZRVyVR9F",
         "album": "Excision 2015 Mix Compilation"
     },
     {
@@ -6571,12 +6577,6 @@
     },
     {
         "artists": "Riddler",
-        "name": "Fejleszegve",
-        "url": "https://open.spotify.com/track/6OnhTlPFS1emRLHm5hA7NU",
-        "album": "Korridor"
-    },
-    {
-        "artists": "Riddler",
         "name": "Azért",
         "url": "https://open.spotify.com/track/2JDXcMykNRK7WwNyJQlxzt",
         "album": "Korridor"
@@ -6603,6 +6603,12 @@
         "artists": "Riddler",
         "name": "Fikció",
         "url": "https://open.spotify.com/track/7s1AvkoclmNT9LbFXhH1iK",
+        "album": "Korridor"
+    },
+    {
+        "artists": "Riddler",
+        "name": "Fejleszegve",
+        "url": "https://open.spotify.com/track/6OnhTlPFS1emRLHm5hA7NU",
         "album": "Korridor"
     },
     {
@@ -6883,12 +6889,6 @@
     },
     {
         "artists": "Zedd",
-        "name": "True Colors",
-        "url": "https://open.spotify.com/track/2KTsF6TFius01SCYmnIkJG",
-        "album": "True Colors"
-    },
-    {
-        "artists": "Zedd",
         "name": "Straight Into The Fire",
         "url": "https://open.spotify.com/track/1Aw0wPIW70GsV9KoD8m7Ps",
         "album": "True Colors"
@@ -6897,6 +6897,12 @@
         "artists": "Zedd, Botnek",
         "name": "Bumble Bee",
         "url": "https://open.spotify.com/track/0L2tjlCReyNfmL37wZh6kF",
+        "album": "True Colors"
+    },
+    {
+        "artists": "Zedd",
+        "name": "True Colors",
+        "url": "https://open.spotify.com/track/2KTsF6TFius01SCYmnIkJG",
         "album": "True Colors"
     },
     {
@@ -7195,12 +7201,6 @@
     },
     {
         "artists": "Black Veil Brides",
-        "name": "Victory Call",
-        "url": "https://open.spotify.com/track/1h9GSsb64NJ5t2VwkEqJ2i",
-        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
-    },
-    {
-        "artists": "Black Veil Brides",
         "name": "Exordium",
         "url": "https://open.spotify.com/track/5gyTYIyhAHV6rOLmZF4Evw",
         "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
@@ -7293,6 +7293,12 @@
         "artists": "Black Veil Brides",
         "name": "F.E.A.R: Final Transmission",
         "url": "https://open.spotify.com/track/6wANeS85CdlSYgnAvlLtpO",
+        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
+    },
+    {
+        "artists": "Black Veil Brides",
+        "name": "Victory Call",
+        "url": "https://open.spotify.com/track/1h9GSsb64NJ5t2VwkEqJ2i",
         "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
     },
     {
@@ -7483,12 +7489,6 @@
     },
     {
         "artists": "Black Veil Brides",
-        "name": "God Bless You",
-        "url": "https://open.spotify.com/track/24D4CU40Y9W1bSwywyWOcX",
-        "album": "Set The World On Fire"
-    },
-    {
-        "artists": "Black Veil Brides",
         "name": "Saviour",
         "url": "https://open.spotify.com/track/1xKXoilNt2ZDVlxe5N7rzi",
         "album": "Set The World On Fire"
@@ -7515,6 +7515,12 @@
         "artists": "Black Veil Brides",
         "name": "Love Isn't Always Fair",
         "url": "https://open.spotify.com/track/4Mn9wMDEDLns5oWf816fMq",
+        "album": "Set The World On Fire"
+    },
+    {
+        "artists": "Black Veil Brides",
+        "name": "God Bless You",
+        "url": "https://open.spotify.com/track/24D4CU40Y9W1bSwywyWOcX",
         "album": "Set The World On Fire"
     },
     {
