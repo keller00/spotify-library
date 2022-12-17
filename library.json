@@ -1,5 +1,11 @@
 [
     {
+        "artists": "Connor Price",
+        "name": "Chatter",
+        "url": "https://open.spotify.com/track/3ScpH2KJqBfRlTHhdNeBqn",
+        "album": "Chatter"
+    },
+    {
         "artists": "Nic D, Connor Price",
         "name": "Bankroll",
         "url": "https://open.spotify.com/track/0xcSj8Zchf6OwaSOAPAkbg",
@@ -2976,12 +2982,6 @@
         "album": "beerbongs & bentleys"
     },
     {
-        "artists": "Excision, Sullivan King",
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/track/1XP0VR8KMArstV37bfzkt8",
-        "album": "Apex"
-    },
-    {
         "artists": "Excision",
         "name": "Tonight",
         "url": "https://open.spotify.com/track/0DpmfnxaIimLhDPfvzCube",
@@ -3009,6 +3009,12 @@
         "artists": "Excision, Space Laces",
         "name": "1 On 1",
         "url": "https://open.spotify.com/track/3X5yGDzloO11zXx6ELmvgU",
+        "album": "Apex"
+    },
+    {
+        "artists": "Excision, Sullivan King",
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/track/1XP0VR8KMArstV37bfzkt8",
         "album": "Apex"
     },
     {
@@ -3846,12 +3852,6 @@
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
-        "artists": "Delta Heavy, Dirty Audio, HOLLY, PhaseOne",
-        "name": "Stay - PhaseOne Remix",
-        "url": "https://open.spotify.com/track/6w7lkqB3IdhcFQMeACFUzm",
-        "album": "Monstercat Uncaged Vol. 4"
-    },
-    {
         "artists": "Reach, Jupe",
         "name": "Beast",
         "url": "https://open.spotify.com/track/3JbBT86obFWoqvo1GPTVTA",
@@ -3903,6 +3903,12 @@
         "artists": "Slippy",
         "name": "Promise Me",
         "url": "https://open.spotify.com/track/7ptmaDi9kbJ91Ml8Pe1Xa4",
+        "album": "Monstercat Uncaged Vol. 4"
+    },
+    {
+        "artists": "Delta Heavy, Dirty Audio, HOLLY, PhaseOne",
+        "name": "Stay - PhaseOne Remix",
+        "url": "https://open.spotify.com/track/6w7lkqB3IdhcFQMeACFUzm",
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
@@ -4164,12 +4170,6 @@
         "album": "Lost Lands 2017 Compilation"
     },
     {
-        "artists": "Excision, FuntCase, Cookie Monsta",
-        "name": "The Paradox - Funtcase & Cookie Monsta Remix",
-        "url": "https://open.spotify.com/track/2qAT2t6Oczf7clm0RuYMSt",
-        "album": "Lost Lands 2017 Compilation"
-    },
-    {
         "artists": "Squnto, Monxx",
         "name": "Sayim - Monxx Remix",
         "url": "https://open.spotify.com/track/2M7Tg0OU3AS6Cg4hRagdhL",
@@ -4257,6 +4257,12 @@
         "artists": "FuntCase, Barely Alive, Merky ACE",
         "name": "4 Barz of Fury - Barely Alive Remix",
         "url": "https://open.spotify.com/track/46XQUPtnInkuU1TorHUFaF",
+        "album": "Lost Lands 2017 Compilation"
+    },
+    {
+        "artists": "Excision, FuntCase, Cookie Monsta",
+        "name": "The Paradox - Funtcase & Cookie Monsta Remix",
+        "url": "https://open.spotify.com/track/2qAT2t6Oczf7clm0RuYMSt",
         "album": "Lost Lands 2017 Compilation"
     },
     {
@@ -4740,12 +4746,6 @@
         "album": "Excision 2016 Mix Compilation"
     },
     {
-        "artists": "Lookas, Crankdat",
-        "name": "Game Over",
-        "url": "https://open.spotify.com/track/49FsdC7RB6Y5BdA0w89LJp",
-        "album": "Excision 2016 Mix Compilation"
-    },
-    {
         "artists": "Barely Alive, Mayhem, Antiserum",
         "name": "Scoop - Mayhem & Antiserum Remix",
         "url": "https://open.spotify.com/track/1NbXBJxeUcaV7c10vC0OTn",
@@ -4803,6 +4803,12 @@
         "artists": "Dion Timmer",
         "name": "Plug Me In",
         "url": "https://open.spotify.com/track/4DLBkxu2raGhfGCgHDGMSC",
+        "album": "Excision 2016 Mix Compilation"
+    },
+    {
+        "artists": "Lookas, Crankdat",
+        "name": "Game Over",
+        "url": "https://open.spotify.com/track/49FsdC7RB6Y5BdA0w89LJp",
         "album": "Excision 2016 Mix Compilation"
     },
     {
@@ -5088,12 +5094,6 @@
         "album": "Welcome To Our Church"
     },
     {
-        "artists": "Alex Gunby",
-        "name": "Drop the Hammer",
-        "url": "https://open.spotify.com/track/3zuM0X2VLcUP4VUdEQ6KHw",
-        "album": "MR T the EP"
-    },
-    {
         "artists": "Alex Gunby, Dairyboy$",
         "name": "Golf",
         "url": "https://open.spotify.com/track/1qDN3TFCmGMy92WDeKaMyh",
@@ -5103,6 +5103,12 @@
         "artists": "Alex Gunby",
         "name": "Cheeze",
         "url": "https://open.spotify.com/track/6w6Px08wJpQssIx8fn9mtY",
+        "album": "MR T the EP"
+    },
+    {
+        "artists": "Alex Gunby",
+        "name": "Drop the Hammer",
+        "url": "https://open.spotify.com/track/3zuM0X2VLcUP4VUdEQ6KHw",
         "album": "MR T the EP"
     },
     {
@@ -5382,12 +5388,6 @@
         "album": "KillaGoons"
     },
     {
-        "artists": "Killakikitt, Snowgoons, Turan Khan",
-        "name": "Javíthatatlan",
-        "url": "https://open.spotify.com/track/1nJReMOjXp9UevHnico4qZ",
-        "album": "KillaGoons"
-    },
-    {
         "artists": "Killakikitt, Snowgoons",
         "name": "Betondzsungel Könyve",
         "url": "https://open.spotify.com/track/1SqukZys91FKly4HgJNmBK",
@@ -5439,6 +5439,12 @@
         "artists": "Killakikitt, Snowgoons",
         "name": "Idegen",
         "url": "https://open.spotify.com/track/5GVtbH2AOPxaHU2CqSYC99",
+        "album": "KillaGoons"
+    },
+    {
+        "artists": "Killakikitt, Snowgoons, Turan Khan",
+        "name": "Javíthatatlan",
+        "url": "https://open.spotify.com/track/1nJReMOjXp9UevHnico4qZ",
         "album": "KillaGoons"
     },
     {
@@ -5652,12 +5658,6 @@
         "album": "Listen Again"
     },
     {
-        "artists": "David Guetta, Danny O'Donoghue, Glen Power, Mark Sheehan, Ryan Tedder, The Script",
-        "name": "S.T.O.P. (feat. Ryan Tedder) vs. Goodbye Friend (feat. The Script) - Listenin' Continuous Mix",
-        "url": "https://open.spotify.com/track/3OHKmw72UQUS46H5SUo6s6",
-        "album": "Listen Again"
-    },
-    {
         "artists": "David Guetta, GLOWINTHEDARK",
         "name": "Clap Your Hands - Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/2hcHUGp2XSklWOzLEz6NpC",
@@ -5826,6 +5826,12 @@
         "album": "Listen Again"
     },
     {
+        "artists": "David Guetta, Danny O'Donoghue, Glen Power, Mark Sheehan, Ryan Tedder, The Script",
+        "name": "S.T.O.P. (feat. Ryan Tedder) vs. Goodbye Friend (feat. The Script) - Listenin' Continuous Mix",
+        "url": "https://open.spotify.com/track/3OHKmw72UQUS46H5SUo6s6",
+        "album": "Listen Again"
+    },
+    {
         "artists": "David Guetta",
         "name": "Bang My Head (feat. Sia & Fetty Wap) - Extended",
         "url": "https://open.spotify.com/track/1dM6FsF16SIoV7VdCE2r38",
@@ -5889,12 +5895,6 @@
         "artists": "Orkestrated, Fries & Shine, Big Nab",
         "name": "Melbourne Bounce (Deorro Remix) [feat. BIG NAB]",
         "url": "https://open.spotify.com/track/2cEBf1fVnQIqJfSUqXo4u2",
-        "album": "MELBOURNE BOUNCE"
-    },
-    {
-        "artists": "Chardy, Timmy Trumpet",
-        "name": "Sassafras",
-        "url": "https://open.spotify.com/track/4ZaGqt4FiAcbRIAPzSuSZY",
         "album": "MELBOURNE BOUNCE"
     },
     {
@@ -5997,6 +5997,12 @@
         "artists": "Nick Coleman",
         "name": "Faces Of Meth (T-Rek Remix)",
         "url": "https://open.spotify.com/track/0wEYapDe0QJStwBovK05bl",
+        "album": "MELBOURNE BOUNCE"
+    },
+    {
+        "artists": "Chardy, Timmy Trumpet",
+        "name": "Sassafras",
+        "url": "https://open.spotify.com/track/4ZaGqt4FiAcbRIAPzSuSZY",
         "album": "MELBOURNE BOUNCE"
     },
     {
@@ -6276,12 +6282,6 @@
         "album": "Shell Shock Legends"
     },
     {
-        "artists": "Getter",
-        "name": "The Heat",
-        "url": "https://open.spotify.com/track/5XVXP4IjaMifo4BCQieefb",
-        "album": "Shell Shock Legends"
-    },
-    {
         "artists": "Sub Antix",
         "name": "Mr. Miyagi",
         "url": "https://open.spotify.com/track/0fbrQrvrwzPzHJEXW7B7DP",
@@ -6309,6 +6309,12 @@
         "artists": "Antiserum, Tha Trickaz",
         "name": "Boom",
         "url": "https://open.spotify.com/track/64JSjhm8hfOecBcay8UDij",
+        "album": "Shell Shock Legends"
+    },
+    {
+        "artists": "Getter",
+        "name": "The Heat",
+        "url": "https://open.spotify.com/track/5XVXP4IjaMifo4BCQieefb",
         "album": "Shell Shock Legends"
     },
     {
@@ -6583,12 +6589,6 @@
     },
     {
         "artists": "Riddler",
-        "name": "Azért",
-        "url": "https://open.spotify.com/track/2JDXcMykNRK7WwNyJQlxzt",
-        "album": "Korridor"
-    },
-    {
-        "artists": "Riddler",
         "name": "Egy Irány",
         "url": "https://open.spotify.com/track/063svUJXmMxQxZ57ViewSC",
         "album": "Korridor"
@@ -6627,6 +6627,12 @@
         "artists": "Riddler",
         "name": "Fejleszegve",
         "url": "https://open.spotify.com/track/6OnhTlPFS1emRLHm5hA7NU",
+        "album": "Korridor"
+    },
+    {
+        "artists": "Riddler",
+        "name": "Azért",
+        "url": "https://open.spotify.com/track/2JDXcMykNRK7WwNyJQlxzt",
         "album": "Korridor"
     },
     {
@@ -6882,12 +6888,6 @@
         "album": "Tank Girls"
     },
     {
-        "artists": "Zedd, Bahari",
-        "name": "Addicted To A Memory",
-        "url": "https://open.spotify.com/track/0xTGfdrWzJLKRD4U6hxSsg",
-        "album": "True Colors"
-    },
-    {
         "artists": "Zedd",
         "name": "Done With Love",
         "url": "https://open.spotify.com/track/0qlAureWHln3vDCsqnkyRE",
@@ -6897,6 +6897,12 @@
         "artists": "Zedd, Botnek",
         "name": "Bumble Bee",
         "url": "https://open.spotify.com/track/0L2tjlCReyNfmL37wZh6kF",
+        "album": "True Colors"
+    },
+    {
+        "artists": "Zedd, Bahari",
+        "name": "Addicted To A Memory",
+        "url": "https://open.spotify.com/track/0xTGfdrWzJLKRD4U6hxSsg",
         "album": "True Colors"
     },
     {
@@ -7440,12 +7446,6 @@
         "album": "Clarity (Deluxe)"
     },
     {
-        "artists": "Zedd, Matthew Koma",
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/track/5OWhsQqUaqHvQwhVSLjOBE",
-        "album": "Clarity (Deluxe)"
-    },
-    {
         "artists": "Zedd, Ryan Tedder",
         "name": "Lost At Sea",
         "url": "https://open.spotify.com/track/3EneOkIIn7gdm8ZzItfTAQ",
@@ -7497,6 +7497,12 @@
         "artists": "Skrillex, The Doors, Zedd",
         "name": "Breakn' A Sweat - Zedd Remix",
         "url": "https://open.spotify.com/track/1efo75d5TVKgOihEz0OCc8",
+        "album": "Clarity (Deluxe)"
+    },
+    {
+        "artists": "Zedd, Matthew Koma",
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/track/5OWhsQqUaqHvQwhVSLjOBE",
         "album": "Clarity (Deluxe)"
     },
     {
