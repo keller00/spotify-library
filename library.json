@@ -1,5 +1,11 @@
 [
     {
+        "artists": "RZRKT",
+        "name": "Rage",
+        "url": "https://open.spotify.com/track/2yofTR4pRFEqrYK3YSXhf4",
+        "album": "Rage"
+    },
+    {
         "artists": "Connor Price",
         "name": "Chatter",
         "url": "https://open.spotify.com/track/3ScpH2KJqBfRlTHhdNeBqn",
@@ -2994,12 +3000,6 @@
         "album": "Apex"
     },
     {
-        "artists": "Excision, Sullivan King",
-        "name": "Fight Through The Pain",
-        "url": "https://open.spotify.com/track/0REjKfUHrcTUJUXHPYQ8zu",
-        "album": "Apex"
-    },
-    {
         "artists": "Excision",
         "name": "Exterminate",
         "url": "https://open.spotify.com/track/50KRTa8wjCeaZaxZnPT3Bd",
@@ -3057,6 +3057,12 @@
         "artists": "Excision, Dion Timmer, Messinian",
         "name": "Hoods Up",
         "url": "https://open.spotify.com/track/5PcppqVMiKFg4ODWBm1zzY",
+        "album": "Apex"
+    },
+    {
+        "artists": "Excision, Sullivan King",
+        "name": "Fight Through The Pain",
+        "url": "https://open.spotify.com/track/0REjKfUHrcTUJUXHPYQ8zu",
         "album": "Apex"
     },
     {
@@ -3540,12 +3546,6 @@
         "album": "Back to Business"
     },
     {
-        "artists": "ScarcityBP, MOD the Black Marvel",
-        "name": "Business",
-        "url": "https://open.spotify.com/track/7bpBESui2BsSLdergmYKGG",
-        "album": "Back to Business"
-    },
-    {
         "artists": "ScarcityBP, Darkim Be Allah",
         "name": "Reminiscence",
         "url": "https://open.spotify.com/track/2KJuiypLS3Mj5LoOLpHlq7",
@@ -3597,6 +3597,12 @@
         "artists": "ScarcityBP, Planet X",
         "name": "The Final Hour - Remix",
         "url": "https://open.spotify.com/track/4D8B8YNLmJoml6AXVX1ncG",
+        "album": "Back to Business"
+    },
+    {
+        "artists": "ScarcityBP, MOD the Black Marvel",
+        "name": "Business",
+        "url": "https://open.spotify.com/track/7bpBESui2BsSLdergmYKGG",
         "album": "Back to Business"
     },
     {
@@ -3709,7 +3715,7 @@
     },
     {
         "artists": "Fedde Le Grand, Ida Corr",
-        "name": "Let Me Think About It (Celebration Mix)",
+        "name": "Let Me Think About It - Celebration Mix",
         "url": "https://open.spotify.com/track/2HnbQUKe1joI2tSFuUhqZs",
         "album": "Let Me Think About It (Celebration Mix)"
     },
@@ -3864,12 +3870,6 @@
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
-        "artists": "Pegboard Nerds, Chimeric",
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/track/6vITkgDx9yPrEEQJ8pgVyK",
-        "album": "Monstercat Uncaged Vol. 4"
-    },
-    {
         "artists": "Modestep, Oliverse",
         "name": "Higher - Oliverse Remix",
         "url": "https://open.spotify.com/track/6QpBb0xF4nkrK4Igsff08o",
@@ -3915,6 +3915,12 @@
         "artists": "Droptek, Vorso",
         "name": "Smog",
         "url": "https://open.spotify.com/track/76cjL9zPswQLgWeecJbCJE",
+        "album": "Monstercat Uncaged Vol. 4"
+    },
+    {
+        "artists": "Pegboard Nerds, Chimeric",
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/track/6vITkgDx9yPrEEQJ8pgVyK",
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
@@ -4152,12 +4158,6 @@
         "album": "Lost Lands 2017 Compilation"
     },
     {
-        "artists": "Eliminate",
-        "name": "Final Warning",
-        "url": "https://open.spotify.com/track/2Tds4kk3FkMiMfh9nMlCHb",
-        "album": "Lost Lands 2017 Compilation"
-    },
-    {
         "artists": "Flux Pavilion, NGHTMRE, Jamie Lewis",
         "name": "Feel Your Love",
         "url": "https://open.spotify.com/track/0FfNyMjiGwqjpcy9x2Zbel",
@@ -4209,6 +4209,12 @@
         "artists": "Dion Timmer, MagMag",
         "name": "Berzerk",
         "url": "https://open.spotify.com/track/5k77ZEJpGu86iqSe0hBLsK",
+        "album": "Lost Lands 2017 Compilation"
+    },
+    {
+        "artists": "Eliminate",
+        "name": "Final Warning",
+        "url": "https://open.spotify.com/track/2Tds4kk3FkMiMfh9nMlCHb",
         "album": "Lost Lands 2017 Compilation"
     },
     {
@@ -4782,12 +4788,6 @@
         "album": "Excision 2016 Mix Compilation"
     },
     {
-        "artists": "Black Tiger Sex Machine, LeKtriQue",
-        "name": "Armada",
-        "url": "https://open.spotify.com/track/3u5vzJsUVd59pH1rGX4shP",
-        "album": "Excision 2016 Mix Compilation"
-    },
-    {
         "artists": "Pegboard Nerds, Sikdope, Tia Simone",
         "name": "Heartbit - Sikdope Remix",
         "url": "https://open.spotify.com/track/0scC0tKHtUi0H1A3D29cK6",
@@ -4839,6 +4839,12 @@
         "artists": "Flux Pavilion, Matthew Koma, MUST DIE!",
         "name": "Emotional - Must Die! Remix",
         "url": "https://open.spotify.com/track/4JqO1FNI6SduVWMGMA7PYx",
+        "album": "Excision 2016 Mix Compilation"
+    },
+    {
+        "artists": "Black Tiger Sex Machine, LeKtriQue",
+        "name": "Armada",
+        "url": "https://open.spotify.com/track/3u5vzJsUVd59pH1rGX4shP",
         "album": "Excision 2016 Mix Compilation"
     },
     {
@@ -5094,12 +5100,6 @@
         "album": "Welcome To Our Church"
     },
     {
-        "artists": "Alex Gunby, Dairyboy$",
-        "name": "Golf",
-        "url": "https://open.spotify.com/track/1qDN3TFCmGMy92WDeKaMyh",
-        "album": "MR T the EP"
-    },
-    {
         "artists": "Alex Gunby",
         "name": "Cheeze",
         "url": "https://open.spotify.com/track/6w6Px08wJpQssIx8fn9mtY",
@@ -5115,6 +5115,12 @@
         "artists": "Alex Gunby",
         "name": "Mr T",
         "url": "https://open.spotify.com/track/5af7XouCSfvCDxgwRgIVeC",
+        "album": "MR T the EP"
+    },
+    {
+        "artists": "Alex Gunby, Dairyboy$",
+        "name": "Golf",
+        "url": "https://open.spotify.com/track/1qDN3TFCmGMy92WDeKaMyh",
         "album": "MR T the EP"
     },
     {
@@ -5389,12 +5395,6 @@
     },
     {
         "artists": "Killakikitt, Snowgoons",
-        "name": "Betondzsungel Könyve",
-        "url": "https://open.spotify.com/track/1SqukZys91FKly4HgJNmBK",
-        "album": "KillaGoons"
-    },
-    {
-        "artists": "Killakikitt, Snowgoons",
         "name": "Itt az Idő",
         "url": "https://open.spotify.com/track/0NXWZlVG7iF8WYPemBNhxv",
         "album": "KillaGoons"
@@ -5445,6 +5445,12 @@
         "artists": "Killakikitt, Snowgoons, Turan Khan",
         "name": "Javíthatatlan",
         "url": "https://open.spotify.com/track/1nJReMOjXp9UevHnico4qZ",
+        "album": "KillaGoons"
+    },
+    {
+        "artists": "Killakikitt, Snowgoons",
+        "name": "Betondzsungel Könyve",
+        "url": "https://open.spotify.com/track/1SqukZys91FKly4HgJNmBK",
         "album": "KillaGoons"
     },
     {
@@ -5640,12 +5646,6 @@
         "album": "Listen Again"
     },
     {
-        "artists": "David Guetta, Noodles",
-        "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Noodles Remix; Listenin' Continuous Mix",
-        "url": "https://open.spotify.com/track/2xDXsaU28V1c73dxJOxgCX",
-        "album": "Listen Again"
-    },
-    {
         "artists": "David Guetta, Club Killers",
         "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Club Killers Remix; Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/0BCVesa9vk3jQhXQ1C0gWZ",
@@ -5808,6 +5808,12 @@
         "album": "Listen Again"
     },
     {
+        "artists": "David Guetta, Noodles",
+        "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Noodles Remix; Listenin' Continuous Mix",
+        "url": "https://open.spotify.com/track/2xDXsaU28V1c73dxJOxgCX",
+        "album": "Listen Again"
+    },
+    {
         "artists": "David Guetta, Afrojack",
         "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Afrojack Remix; Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/7LLzNQbyk0aV2RwSzhb7ac",
@@ -5964,12 +5970,6 @@
         "album": "MELBOURNE BOUNCE"
     },
     {
-        "artists": "Chris Lake",
-        "name": "Ohh Shhh (Club Mix)",
-        "url": "https://open.spotify.com/track/4VuLjtPAJ1t0Swp9TrqCeI",
-        "album": "MELBOURNE BOUNCE"
-    },
-    {
         "artists": "Gee & T",
         "name": "Shake It (All Night Long) [Chardy remi]",
         "url": "https://open.spotify.com/track/4T6YpfRm1kf3jeAJtGbX1b",
@@ -6009,6 +6009,12 @@
         "artists": "SCNDL",
         "name": "Gypsy",
         "url": "https://open.spotify.com/track/4eILkj5vgAIGCxqMGiP5sI",
+        "album": "MELBOURNE BOUNCE"
+    },
+    {
+        "artists": "Chris Lake",
+        "name": "Ohh Shhh (Club Mix)",
+        "url": "https://open.spotify.com/track/4VuLjtPAJ1t0Swp9TrqCeI",
         "album": "MELBOURNE BOUNCE"
     },
     {
@@ -6276,12 +6282,6 @@
         "album": "Shell Shock Legends"
     },
     {
-        "artists": "Datsik, Bear Grillz",
-        "name": "Fuck Off",
-        "url": "https://open.spotify.com/track/5REmyJKyAycj7QeXaFajQL",
-        "album": "Shell Shock Legends"
-    },
-    {
         "artists": "Sub Antix",
         "name": "Mr. Miyagi",
         "url": "https://open.spotify.com/track/0fbrQrvrwzPzHJEXW7B7DP",
@@ -6309,6 +6309,12 @@
         "artists": "Antiserum, Tha Trickaz",
         "name": "Boom",
         "url": "https://open.spotify.com/track/64JSjhm8hfOecBcay8UDij",
+        "album": "Shell Shock Legends"
+    },
+    {
+        "artists": "Datsik, Bear Grillz",
+        "name": "Fuck Off",
+        "url": "https://open.spotify.com/track/5REmyJKyAycj7QeXaFajQL",
         "album": "Shell Shock Legends"
     },
     {
@@ -6595,12 +6601,6 @@
     },
     {
         "artists": "Riddler",
-        "name": "Tigristekintet Wherdee Rmx",
-        "url": "https://open.spotify.com/track/0BqOvnkC6ob2qp0LEjmNC9",
-        "album": "Korridor"
-    },
-    {
-        "artists": "Riddler",
         "name": "Fikció",
         "url": "https://open.spotify.com/track/7s1AvkoclmNT9LbFXhH1iK",
         "album": "Korridor"
@@ -6639,6 +6639,12 @@
         "artists": "Riddler",
         "name": "Azt Csiripelik a Verebek",
         "url": "https://open.spotify.com/track/5iPLHX2qSG6fpsJmoS6T8I",
+        "album": "Korridor"
+    },
+    {
+        "artists": "Riddler",
+        "name": "Tigristekintet Wherdee Rmx",
+        "url": "https://open.spotify.com/track/0BqOvnkC6ob2qp0LEjmNC9",
         "album": "Korridor"
     },
     {
@@ -6888,12 +6894,6 @@
         "album": "Tank Girls"
     },
     {
-        "artists": "Zedd",
-        "name": "Done With Love",
-        "url": "https://open.spotify.com/track/0qlAureWHln3vDCsqnkyRE",
-        "album": "True Colors"
-    },
-    {
         "artists": "Zedd, Botnek",
         "name": "Bumble Bee",
         "url": "https://open.spotify.com/track/0L2tjlCReyNfmL37wZh6kF",
@@ -6921,6 +6921,12 @@
         "artists": "Zedd, Logic, X Ambassadors",
         "name": "Transmission",
         "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX",
+        "album": "True Colors"
+    },
+    {
+        "artists": "Zedd",
+        "name": "Done With Love",
+        "url": "https://open.spotify.com/track/0qlAureWHln3vDCsqnkyRE",
         "album": "True Colors"
     },
     {
@@ -7111,12 +7117,6 @@
     },
     {
         "artists": "Disturbed",
-        "name": "Immortalized",
-        "url": "https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL",
-        "album": "Immortalized (Deluxe Edition)"
-    },
-    {
-        "artists": "Disturbed",
         "name": "The Vengeful One",
         "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T",
         "album": "Immortalized (Deluxe Edition)"
@@ -7197,6 +7197,12 @@
         "artists": "Disturbed",
         "name": "The Brave and the Bold",
         "url": "https://open.spotify.com/track/5WKOlZCe8Yid3xD01xwQBa",
+        "album": "Immortalized (Deluxe Edition)"
+    },
+    {
+        "artists": "Disturbed",
+        "name": "Immortalized",
+        "url": "https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL",
         "album": "Immortalized (Deluxe Edition)"
     },
     {
@@ -7452,12 +7458,6 @@
         "album": "Clarity (Deluxe)"
     },
     {
-        "artists": "Zedd, Foxes",
-        "name": "Clarity",
-        "url": "https://open.spotify.com/track/5JEyMbmqdPeD7FlyLv3fGp",
-        "album": "Clarity (Deluxe)"
-    },
-    {
         "artists": "Zedd",
         "name": "Codec",
         "url": "https://open.spotify.com/track/32OraaktPQjqLRu6rUtojA",
@@ -7503,6 +7503,12 @@
         "artists": "Zedd, Matthew Koma",
         "name": "Spectrum",
         "url": "https://open.spotify.com/track/5OWhsQqUaqHvQwhVSLjOBE",
+        "album": "Clarity (Deluxe)"
+    },
+    {
+        "artists": "Zedd, Foxes",
+        "name": "Clarity",
+        "url": "https://open.spotify.com/track/5JEyMbmqdPeD7FlyLv3fGp",
         "album": "Clarity (Deluxe)"
     },
     {
