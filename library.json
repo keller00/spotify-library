@@ -1,5 +1,59 @@
 [
     {
+        "artists": "401 WST, 4Korners, Ashton Adams",
+        "name": "Move To The Beat Like",
+        "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX",
+        "album": "Move To The Beat Like"
+    },
+    {
+        "artists": "GHENGAR, GHASTLY",
+        "name": "FINAL BOSS",
+        "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA",
+        "album": "FINAL BOSS"
+    },
+    {
+        "artists": "Hekler",
+        "name": "ABYSS",
+        "url": "https://open.spotify.com/track/6RW17seZ49inhKT2kmFv8a",
+        "album": "ABYSS"
+    },
+    {
+        "artists": "Dubba Jonny, Kayzo",
+        "name": "A Brief Tutorial On Dubstep Production - Kayzo Remix",
+        "url": "https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy",
+        "album": "A Brief Tutorial On Dubstep Production (Kayzo Remix)"
+    },
+    {
+        "artists": "INZO",
+        "name": "Y",
+        "url": "https://open.spotify.com/track/5yKZg1KWvtvWBmHIoU9tzs",
+        "album": "Multiverse"
+    },
+    {
+        "artists": "NAZAAR",
+        "name": "MANIPULATE",
+        "url": "https://open.spotify.com/track/51DbiCEDdWs4cwYM2ImVlN",
+        "album": "MANIPULATE"
+    },
+    {
+        "artists": "NITTI, Dr. Fresch",
+        "name": "Cold Day in Hell",
+        "url": "https://open.spotify.com/track/3fqWMqLjDxzOdQpWKED0KD",
+        "album": "Cold Day in Hell"
+    },
+    {
+        "artists": "Black Tiger Sex Machine, JT Roach",
+        "name": "Creature",
+        "url": "https://open.spotify.com/track/77SxHKSrb8UvGwuP9ueh5u",
+        "album": "Creature"
+    },
+    {
+        "artists": "HAARPER, Freddie Dredd",
+        "name": "Wtf U Mean",
+        "url": "https://open.spotify.com/track/3PHt7AdVhjIMS5Yw5RIZKU",
+        "album": "Wtf U Mean"
+    },
+    {
         "artists": "Freddie Dredd",
         "name": "Limbo",
         "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp",
@@ -7,7 +61,7 @@
     },
     {
         "artists": "Skrillex, Nai Barghouti",
-        "name": "Xena",
+        "name": "XENA",
         "url": "https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf",
         "album": "Xena"
     },
@@ -282,7 +336,7 @@
         "album": "Check This (with Kuhlosul)"
     },
     {
-        "artists": "Stoned LeveL, Izzy Vadim",
+        "artists": "Stoned Level, Izzy Vadim",
         "name": "Shinobi",
         "url": "https://open.spotify.com/track/2G5tczgD4javpQHN7NYO0l",
         "album": "Shinobi"
@@ -420,7 +474,7 @@
         "album": "Watch Yo Back"
     },
     {
-        "artists": "Black Tiger Sex Machine, Hairitage, Hyro The Hero, Stoned LeveL",
+        "artists": "Black Tiger Sex Machine, Hairitage, Hyro The Hero, Stoned Level",
         "name": "Cheatcode - Stoned Level Remix",
         "url": "https://open.spotify.com/track/2tlwLxJTqNbwfKzXtMqXVD",
         "album": "Cheatcode (Remixes)"
@@ -1135,9 +1189,9 @@
     },
     {
         "artists": "Skrillex, Starrah, Four Tet",
-        "name": "Butterflies (with Starrah & Four Tet)",
+        "name": "Butterflies",
         "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE",
-        "album": "Butterflies (with Starrah & Four Tet)"
+        "album": "Butterflies"
     },
     {
         "artists": "Cloonee",
@@ -2334,6 +2388,18 @@
         "album": "DEMIGOD"
     },
     {
+        "artists": "Kai Wachi, Sullivan King",
+        "name": "Between the Lines",
+        "url": "https://open.spotify.com/track/4yYBocB87nGIr5aMqaI6z1",
+        "album": "DEMIGOD"
+    },
+    {
+        "artists": "Kai Wachi",
+        "name": "Lost",
+        "url": "https://open.spotify.com/track/3f1rIGrqivwqfa5xPe6hij",
+        "album": "DEMIGOD"
+    },
+    {
         "artists": "Kai Wachi",
         "name": "Level",
         "url": "https://open.spotify.com/track/5mDm6mfUDRrGnHdnt2ECvD",
@@ -2349,18 +2415,6 @@
         "artists": "Kai Wachi, Sam King",
         "name": "Kamikaze",
         "url": "https://open.spotify.com/track/7EyQt5pprJbDrxJPYOYOdl",
-        "album": "DEMIGOD"
-    },
-    {
-        "artists": "Kai Wachi, Sullivan King",
-        "name": "Between the Lines",
-        "url": "https://open.spotify.com/track/4yYBocB87nGIr5aMqaI6z1",
-        "album": "DEMIGOD"
-    },
-    {
-        "artists": "Kai Wachi",
-        "name": "Lost",
-        "url": "https://open.spotify.com/track/3f1rIGrqivwqfa5xPe6hij",
         "album": "DEMIGOD"
     },
     {
@@ -3870,36 +3924,6 @@
         "album": "War & Leisure"
     },
     {
-        "artists": "Taska Black, Nevve",
-        "name": "We Would Never Do",
-        "url": "https://open.spotify.com/track/2horvureIfFroPkcjHtBig",
-        "album": "Monstercat Uncaged Vol. 4"
-    },
-    {
-        "artists": "MYRNE",
-        "name": "Lyra",
-        "url": "https://open.spotify.com/track/01HyznOy7ls5xL5xlIL9G8",
-        "album": "Monstercat Uncaged Vol. 4"
-    },
-    {
-        "artists": "Zac Waters",
-        "name": "A Lot Like You",
-        "url": "https://open.spotify.com/track/2pAv6LCJwijICqpLOgQeuM",
-        "album": "Monstercat Uncaged Vol. 4"
-    },
-    {
-        "artists": "Gent & Jawns",
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/track/2XNRt6xuDhcXSAaBHDB1KT",
-        "album": "Monstercat Uncaged Vol. 4"
-    },
-    {
-        "artists": "KUURO",
-        "name": "Omen",
-        "url": "https://open.spotify.com/track/2QCqBUdMsj6aiml2dQerGn",
-        "album": "Monstercat Uncaged Vol. 4"
-    },
-    {
         "artists": "Gammer",
         "name": "THE DROP",
         "url": "https://open.spotify.com/track/2yEotm1kYCQ5VisWhKG30B",
@@ -3942,6 +3966,12 @@
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
+        "artists": "Taska Black, Nevve",
+        "name": "We Would Never Do",
+        "url": "https://open.spotify.com/track/2horvureIfFroPkcjHtBig",
+        "album": "Monstercat Uncaged Vol. 4"
+    },
+    {
         "artists": "Bad Computer",
         "name": "Disarray",
         "url": "https://open.spotify.com/track/6anXABmg1FAMGXCNv1sEGr",
@@ -3951,6 +3981,12 @@
         "artists": "SLANDER, Eric Leva, Spag Heddy",
         "name": "Superhuman - Spag Heddy Remix",
         "url": "https://open.spotify.com/track/60yqmnnHgOxFkunptxS6oP",
+        "album": "Monstercat Uncaged Vol. 4"
+    },
+    {
+        "artists": "MYRNE",
+        "name": "Lyra",
+        "url": "https://open.spotify.com/track/01HyznOy7ls5xL5xlIL9G8",
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
@@ -3978,6 +4014,12 @@
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
+        "artists": "Zac Waters",
+        "name": "A Lot Like You",
+        "url": "https://open.spotify.com/track/2pAv6LCJwijICqpLOgQeuM",
+        "album": "Monstercat Uncaged Vol. 4"
+    },
+    {
         "artists": "Pegboard Nerds, Tia Simone",
         "name": "Just Dance",
         "url": "https://open.spotify.com/track/54cxGnnqSLlX9CCnNhQzsh",
@@ -3999,6 +4041,12 @@
         "artists": "Stonebank, Whizzkid",
         "name": "Body Moving",
         "url": "https://open.spotify.com/track/6DfhfzI8EgHju8G9Cy40q4",
+        "album": "Monstercat Uncaged Vol. 4"
+    },
+    {
+        "artists": "Gent & Jawns",
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/track/2XNRt6xuDhcXSAaBHDB1KT",
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
@@ -4041,6 +4089,12 @@
         "artists": "Slippy",
         "name": "Haunted VIP",
         "url": "https://open.spotify.com/track/5Bot9yRWsS8B2QjlnwhVom",
+        "album": "Monstercat Uncaged Vol. 4"
+    },
+    {
+        "artists": "KUURO",
+        "name": "Omen",
+        "url": "https://open.spotify.com/track/2QCqBUdMsj6aiml2dQerGn",
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
@@ -4476,6 +4530,12 @@
         "album": "Master of Shadows"
     },
     {
+        "artists": "Datsik",
+        "name": "Pressure Plates",
+        "url": "https://open.spotify.com/track/5FOcfMWnz34WbTjDHAbLrM",
+        "album": "Master of Shadows"
+    },
+    {
         "artists": "Datsik, Ganja White Night, T.Rabb",
         "name": "Bad Behavior (feat. T.Rabb)",
         "url": "https://open.spotify.com/track/3lmJq0owtVfHZug93YLil8",
@@ -4488,6 +4548,12 @@
         "album": "Master of Shadows"
     },
     {
+        "artists": "Datsik",
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/track/6IfFKsVDgkHOhjLzSGFu1W",
+        "album": "Master of Shadows"
+    },
+    {
         "artists": "Datsik, Virtual Riot",
         "name": "Freakuency",
         "url": "https://open.spotify.com/track/3K7ISomO4P3yjWqUeBOQtk",
@@ -4497,18 +4563,6 @@
         "artists": "Datsik, Excision, Dion Timmer",
         "name": "Find Me (feat. Excision & Dion Timmer)",
         "url": "https://open.spotify.com/track/3jonrSfDYisR7r7pReY9VV",
-        "album": "Master of Shadows"
-    },
-    {
-        "artists": "Datsik",
-        "name": "Pressure Plates",
-        "url": "https://open.spotify.com/track/5FOcfMWnz34WbTjDHAbLrM",
-        "album": "Master of Shadows"
-    },
-    {
-        "artists": "Datsik",
-        "name": "You've Changed",
-        "url": "https://open.spotify.com/track/6IfFKsVDgkHOhjLzSGFu1W",
         "album": "Master of Shadows"
     },
     {
@@ -4998,21 +5052,9 @@
         "album": "Less Is More"
     },
     {
-        "artists": "YOOKiE, Black Tiger Sex Machine, Kai Wachi",
-        "name": "Survivor feat. Face-T - YOOKiE Remix",
-        "url": "https://open.spotify.com/track/6riG2vRWwOJDAdohohgrDQ",
-        "album": "Welcome To Our Church Remixes"
-    },
-    {
         "artists": "Axel Boy, Black Tiger Sex Machine, Dabin",
         "name": "Break - Axel Boy Remix",
         "url": "https://open.spotify.com/track/5S5r98ayVVL2jUEmAFAjcF",
-        "album": "Welcome To Our Church Remixes"
-    },
-    {
-        "artists": "Black Tiger Sex Machine, Eliminate",
-        "name": "Numbers - Eliminate Remix",
-        "url": "https://open.spotify.com/track/7lNLhGgKOui31fTCtooNgb",
         "album": "Welcome To Our Church Remixes"
     },
     {
@@ -5058,6 +5100,18 @@
         "album": "Welcome To Our Church Remixes"
     },
     {
+        "artists": "YOOKiE, Black Tiger Sex Machine, Kai Wachi",
+        "name": "Survivor feat. Face-T - YOOKiE Remix",
+        "url": "https://open.spotify.com/track/6riG2vRWwOJDAdohohgrDQ",
+        "album": "Welcome To Our Church Remixes"
+    },
+    {
+        "artists": "Black Tiger Sex Machine, Eliminate",
+        "name": "Numbers - Eliminate Remix",
+        "url": "https://open.spotify.com/track/7lNLhGgKOui31fTCtooNgb",
+        "album": "Welcome To Our Church Remixes"
+    },
+    {
         "artists": "Don Omar, Lucenzo",
         "name": "Danza Kuduro",
         "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw",
@@ -5079,24 +5133,6 @@
         "artists": "Bear Grillz",
         "name": "Gurlz",
         "url": "https://open.spotify.com/track/1ClX8OOBmcdogYWNuA8jDQ",
-        "album": "Shellshock Kamikaze"
-    },
-    {
-        "artists": "Spag Heddy",
-        "name": "Hugs and Stuff",
-        "url": "https://open.spotify.com/track/00fLB3tcpXr3Yv7dgpC3os",
-        "album": "Shellshock Kamikaze"
-    },
-    {
-        "artists": "AFK",
-        "name": "Death Gun",
-        "url": "https://open.spotify.com/track/1eGRo07b18DvQNeTrs6oTZ",
-        "album": "Shellshock Kamikaze"
-    },
-    {
-        "artists": "Twine",
-        "name": "Dayjahvuh",
-        "url": "https://open.spotify.com/track/1K4fq03Us7YVg77XauxcNg",
         "album": "Shellshock Kamikaze"
     },
     {
@@ -5124,15 +5160,33 @@
         "album": "Shellshock Kamikaze"
     },
     {
+        "artists": "Spag Heddy",
+        "name": "Hugs and Stuff",
+        "url": "https://open.spotify.com/track/00fLB3tcpXr3Yv7dgpC3os",
+        "album": "Shellshock Kamikaze"
+    },
+    {
         "artists": "Init, Goldplate, Hami",
         "name": "Greens",
         "url": "https://open.spotify.com/track/6fEVZyz8AU2TXMrEeWMEq4",
         "album": "Shellshock Kamikaze"
     },
     {
+        "artists": "AFK",
+        "name": "Death Gun",
+        "url": "https://open.spotify.com/track/1eGRo07b18DvQNeTrs6oTZ",
+        "album": "Shellshock Kamikaze"
+    },
+    {
         "artists": "MineSweepa",
         "name": "No Face",
         "url": "https://open.spotify.com/track/6daoF7R7c8985YXXROXXq5",
+        "album": "Shellshock Kamikaze"
+    },
+    {
+        "artists": "Twine",
+        "name": "Dayjahvuh",
+        "url": "https://open.spotify.com/track/1K4fq03Us7YVg77XauxcNg",
         "album": "Shellshock Kamikaze"
     },
     {
@@ -5394,12 +5448,6 @@
         "album": "Bolum Back"
     },
     {
-        "artists": "Tchami, Kaleem Taylor, Pep & Rash",
-        "name": "Promesses (feat. Kaleem Taylor) - Pep & Rash Remix",
-        "url": "https://open.spotify.com/track/0oZVKqUfSH9vIL7WpSN9qL",
-        "album": "Promesses"
-    },
-    {
         "artists": "Tchami, Kaleem Taylor",
         "name": "Promesses (feat. Kaleem Taylor) - Radio Edit",
         "url": "https://open.spotify.com/track/3hVn28ODoRoVabZhTIvWS1",
@@ -5421,6 +5469,12 @@
         "artists": "Tchami, Kaleem Taylor, Calyx & TeeBee",
         "name": "Promesses (feat. Kaleem Taylor) - Calyx & Teebee Remix",
         "url": "https://open.spotify.com/track/6fZjfnAPKYOr41B85E0WRS",
+        "album": "Promesses"
+    },
+    {
+        "artists": "Tchami, Kaleem Taylor, Pep & Rash",
+        "name": "Promesses (feat. Kaleem Taylor) - Pep & Rash Remix",
+        "url": "https://open.spotify.com/track/0oZVKqUfSH9vIL7WpSN9qL",
         "album": "Promesses"
     },
     {
@@ -5622,39 +5676,15 @@
         "album": "Bck It Up"
     },
     {
-        "artists": "Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign",
-        "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
-        "url": "https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66",
-        "album": "Suicide Squad: The Album"
-    },
-    {
         "artists": "Twenty One Pilots",
         "name": "Heathens",
         "url": "https://open.spotify.com/track/3vZM2544ETmOCCHuBPZRzm",
         "album": "Suicide Squad: The Album"
     },
     {
-        "artists": "Action Bronson, Mark Ronson, Dan Auerbach",
-        "name": "Standing in the Rain (with Mark Ronson & Dan Auerbach)",
-        "url": "https://open.spotify.com/track/6p586xRu0OuyR1ftsTvFoz",
-        "album": "Suicide Squad: The Album"
-    },
-    {
         "artists": "Kehlani",
         "name": "Gangsta",
         "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3",
-        "album": "Suicide Squad: The Album"
-    },
-    {
-        "artists": "Kevin Gates",
-        "name": "Know Better",
-        "url": "https://open.spotify.com/track/50prNXlssUmo8p5Agh0gHJ",
-        "album": "Suicide Squad: The Album"
-    },
-    {
-        "artists": "SAYGRACE, G-Eazy",
-        "name": "You Don't Own Me (feat. G-Eazy)",
-        "url": "https://open.spotify.com/track/6Slaf2WBzQA86oS7MNMUNS",
         "album": "Suicide Squad: The Album"
     },
     {
@@ -5667,6 +5697,30 @@
         "artists": "Skylar Grey",
         "name": "Wreak Havoc",
         "url": "https://open.spotify.com/track/0ibkMpgLiFiMM68xMDIGIp",
+        "album": "Suicide Squad: The Album"
+    },
+    {
+        "artists": "Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign",
+        "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "url": "https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66",
+        "album": "Suicide Squad: The Album"
+    },
+    {
+        "artists": "Action Bronson, Mark Ronson, Dan Auerbach",
+        "name": "Standing in the Rain (with Mark Ronson & Dan Auerbach)",
+        "url": "https://open.spotify.com/track/6p586xRu0OuyR1ftsTvFoz",
+        "album": "Suicide Squad: The Album"
+    },
+    {
+        "artists": "Kevin Gates",
+        "name": "Know Better",
+        "url": "https://open.spotify.com/track/50prNXlssUmo8p5Agh0gHJ",
+        "album": "Suicide Squad: The Album"
+    },
+    {
+        "artists": "SAYGRACE, G-Eazy",
+        "name": "You Don't Own Me (feat. G-Eazy)",
+        "url": "https://open.spotify.com/track/6Slaf2WBzQA86oS7MNMUNS",
         "album": "Suicide Squad: The Album"
     },
     {
@@ -5692,12 +5746,6 @@
         "name": "Monster",
         "url": "https://open.spotify.com/track/37EDnGj3yFe5Hs4Zk3s3YF",
         "album": "Monster"
-    },
-    {
-        "artists": "David Guetta, Sjoerd Janssen, Wouter Janssen",
-        "name": "BAD (feat. Vassy) - Listenin' Continuous Mix",
-        "url": "https://open.spotify.com/track/01ernMIZmczJ6N35O5oQTq",
-        "album": "Listen Again"
     },
     {
         "artists": "David Guetta, Sam Martin",
@@ -5796,12 +5844,6 @@
         "album": "Listen Again"
     },
     {
-        "artists": "David Guetta, Showtek, VASSY",
-        "name": "Bad (feat. Vassy) - Radio Edit",
-        "url": "https://open.spotify.com/track/7L97R04c6ZaPlU8xSxibQp",
-        "album": "Listen Again"
-    },
-    {
         "artists": "David Guetta",
         "name": "Shot Me Down (feat. Skylar Grey) - Radio Edit",
         "url": "https://open.spotify.com/track/62yjOWjA3tb65zgQWdFNx7",
@@ -5874,12 +5916,6 @@
         "album": "Listen Again"
     },
     {
-        "artists": "David Guetta, Showtek, MAGIC!, Sonny Wilson, HUGEL",
-        "name": "Sun Goes Down (feat. MAGIC! & Sonny Wilson) - Hugel Remix; Listenin' Continuous Mix",
-        "url": "https://open.spotify.com/track/70etV1enu30JmB4trRIwFT",
-        "album": "Listen Again"
-    },
-    {
         "artists": "David Guetta, Albert Harvey, GLOWINTHEDARK, Kévin Ramos",
         "name": "Bang My Head (feat. Sia) - GLOWINTHEDARK Remix; Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/2ViVrUNezsBRVnOyuPUvAG",
@@ -5889,12 +5925,6 @@
         "artists": "David Guetta, Noodles",
         "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Noodles Remix; Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/2xDXsaU28V1c73dxJOxgCX",
-        "album": "Listen Again"
-    },
-    {
-        "artists": "David Guetta, AFROJACK",
-        "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Afrojack Remix; Listenin' Continuous Mix",
-        "url": "https://open.spotify.com/track/7LLzNQbyk0aV2RwSzhb7ac",
         "album": "Listen Again"
     },
     {
@@ -5934,6 +5964,12 @@
         "album": "Listen Again"
     },
     {
+        "artists": "David Guetta, Sjoerd Janssen, Wouter Janssen",
+        "name": "BAD (feat. Vassy) - Listenin' Continuous Mix",
+        "url": "https://open.spotify.com/track/01ernMIZmczJ6N35O5oQTq",
+        "album": "Listen Again"
+    },
+    {
         "artists": "David Guetta, Kaz James",
         "name": "Blast Off - Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/1Ty2QpEBFaQ19sVt5KZvvb",
@@ -5964,6 +6000,24 @@
         "album": "Listen Again"
     },
     {
+        "artists": "David Guetta, Showtek, VASSY",
+        "name": "Bad (feat. Vassy) - Radio Edit",
+        "url": "https://open.spotify.com/track/7L97R04c6ZaPlU8xSxibQp",
+        "album": "Listen Again"
+    },
+    {
+        "artists": "David Guetta, Showtek, MAGIC!, Sonny Wilson, HUGEL",
+        "name": "Sun Goes Down (feat. MAGIC! & Sonny Wilson) - Hugel Remix; Listenin' Continuous Mix",
+        "url": "https://open.spotify.com/track/70etV1enu30JmB4trRIwFT",
+        "album": "Listen Again"
+    },
+    {
+        "artists": "David Guetta, AFROJACK",
+        "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Afrojack Remix; Listenin' Continuous Mix",
+        "url": "https://open.spotify.com/track/7LLzNQbyk0aV2RwSzhb7ac",
+        "album": "Listen Again"
+    },
+    {
         "artists": "David Guetta",
         "name": "Bang My Head (feat. Sia & Fetty Wap) - Extended",
         "url": "https://open.spotify.com/track/1dM6FsF16SIoV7VdCE2r38",
@@ -5982,6 +6036,12 @@
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
+        "artists": "David Guetta, Albert Harvey, GLOWINTHEDARK, Kevin Ramos",
+        "name": "Bang My Head (feat. Sia) - GLOWINTHEDARK Remix",
+        "url": "https://open.spotify.com/track/4jJDLe0f7VckXqJgfhApA1",
+        "album": "Bang My Head (feat. Sia & Fetty Wap)"
+    },
+    {
         "artists": "David Guetta, Dave Winnel",
         "name": "Bang My Head (feat. Sia & Fetty Wap) - Kryder & Dave Winnel Remix",
         "url": "https://open.spotify.com/track/4ZNMi6ilssjpo8q8cKdMP8",
@@ -5997,12 +6057,6 @@
         "artists": "David Guetta",
         "name": "Bang My Head (feat. Sia) - Extended",
         "url": "https://open.spotify.com/track/3b4eSYwYviyzCgKldJQ8RD",
-        "album": "Bang My Head (feat. Sia & Fetty Wap)"
-    },
-    {
-        "artists": "David Guetta, Albert Harvey, GLOWINTHEDARK, Kevin Ramos",
-        "name": "Bang My Head (feat. Sia) - GLOWINTHEDARK Remix",
-        "url": "https://open.spotify.com/track/4jJDLe0f7VckXqJgfhApA1",
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
@@ -6228,12 +6282,6 @@
         "album": "X Rated"
     },
     {
-        "artists": "Excision, Savvy",
-        "name": "Sleepless - Original Mix",
-        "url": "https://open.spotify.com/track/7owpI9kPFpz7qjIBfNC8F9",
-        "album": "X Rated"
-    },
-    {
         "artists": "Excision",
         "name": "Execute - Original Mix",
         "url": "https://open.spotify.com/track/2AwIVX47tgIm0Vca8OKjDp",
@@ -6246,15 +6294,21 @@
         "album": "X Rated"
     },
     {
-        "artists": "Excision, Downlink",
-        "name": "Swerve - Original Mix",
-        "url": "https://open.spotify.com/track/7M8hBK0bD8VJZRrf2Epy1V",
-        "album": "X Rated"
-    },
-    {
         "artists": "Excision, Datsik",
         "name": "Deviance - Original Mix",
         "url": "https://open.spotify.com/track/21NqVioImYOhb77WHi8QcI",
+        "album": "X Rated"
+    },
+    {
+        "artists": "Excision, Savvy",
+        "name": "Sleepless - Original Mix",
+        "url": "https://open.spotify.com/track/7owpI9kPFpz7qjIBfNC8F9",
+        "album": "X Rated"
+    },
+    {
+        "artists": "Excision, Downlink",
+        "name": "Swerve - Original Mix",
+        "url": "https://open.spotify.com/track/7M8hBK0bD8VJZRrf2Epy1V",
         "album": "X Rated"
     },
     {
@@ -6282,24 +6336,6 @@
         "album": "Night Shine (The Remixes)"
     },
     {
-        "artists": "Excision, Savvy, Loadstar",
-        "name": "Sleepless - Loadstar Remix",
-        "url": "https://open.spotify.com/track/0IHb7rPOpM3aXSo43NLnKB",
-        "album": "X Rated: The Remixes"
-    },
-    {
-        "artists": "Excision, Downlink, Elite Force",
-        "name": "The Underground - Elite Force Remix",
-        "url": "https://open.spotify.com/track/0Mo4EO2xkREeAwvuaml9ao",
-        "album": "X Rated: The Remixes"
-    },
-    {
-        "artists": "Excision, High Rankin",
-        "name": "Execute - High Rankin Remix",
-        "url": "https://open.spotify.com/track/0jVCfS4ZBVL8Co12ek5O3m",
-        "album": "X Rated: The Remixes"
-    },
-    {
         "artists": "Excision, Datsik, Dirtyphonics",
         "name": "Deviance - Dirtyphonics Remix",
         "url": "https://open.spotify.com/track/1LOrpJNa67WpBaBruo7Wja",
@@ -6312,9 +6348,27 @@
         "album": "X Rated: The Remixes"
     },
     {
+        "artists": "Excision, Savvy, Loadstar",
+        "name": "Sleepless - Loadstar Remix",
+        "url": "https://open.spotify.com/track/0IHb7rPOpM3aXSo43NLnKB",
+        "album": "X Rated: The Remixes"
+    },
+    {
         "artists": "Excision, Lucky Date",
         "name": "Ohhh Nooo - Lucky Date Remix",
         "url": "https://open.spotify.com/track/45EB4zFQBEY0YZdeFoSyyv",
+        "album": "X Rated: The Remixes"
+    },
+    {
+        "artists": "Excision, Downlink, Elite Force",
+        "name": "The Underground - Elite Force Remix",
+        "url": "https://open.spotify.com/track/0Mo4EO2xkREeAwvuaml9ao",
+        "album": "X Rated: The Remixes"
+    },
+    {
+        "artists": "Excision, High Rankin",
+        "name": "Execute - High Rankin Remix",
+        "url": "https://open.spotify.com/track/0jVCfS4ZBVL8Co12ek5O3m",
         "album": "X Rated: The Remixes"
     },
     {
@@ -6456,12 +6510,6 @@
         "album": "Shell Shock Legends"
     },
     {
-        "artists": "Flux Pavilion, Doktor",
-        "name": "International Anthem",
-        "url": "https://open.spotify.com/track/3zsFi9HiCuInnJQnZuUhNc",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
         "artists": "Yogi",
         "name": "Burial - Moody Good Remix",
         "url": "https://open.spotify.com/track/2NN2MKztXx9BQjShvjYiTY",
@@ -6486,12 +6534,6 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
-        "artists": "Virtual Riot, Autodrive, SPLITBREED",
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/track/3nrU8azrbYz6C2IvdyFB7v",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
         "artists": "Excision",
         "name": "Shadowflame",
         "url": "https://open.spotify.com/track/07LUB7tviYSc6YkIF0VMwR",
@@ -6513,18 +6555,6 @@
         "artists": "Excision, Space Laces",
         "name": "Push It Up",
         "url": "https://open.spotify.com/track/0vwtY3YITpxogdKo4CRZCb",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
-        "artists": "Skrillex, Diplo, CL, G-DRAGON",
-        "name": "Dirty Vibe - DJ Snake & Aazar Remix",
-        "url": "https://open.spotify.com/track/4AVjGk1r3TBstD7lcxh39E",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
-        "artists": "Bear Grillz, Datsik",
-        "name": "Drop That Low",
-        "url": "https://open.spotify.com/track/4PWYrWMFHmWU46bAdp5Czy",
         "album": "Excision 2015 Mix Compilation"
     },
     {
@@ -6558,33 +6588,9 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
-        "artists": "Moksi",
-        "name": "The Dopest - Cesqeaux Remix",
-        "url": "https://open.spotify.com/track/4dmyBFDYDV7qddAdah1UIu",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
-        "artists": "Fishermen, False Panic, Gravity",
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/track/3qOQT0csZMlBppLqEoikIl",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
-        "artists": "The Frim, Excision, Luciana",
-        "name": "Night Shine",
-        "url": "https://open.spotify.com/track/4g2HxVIybuHikWtBeYhH9E",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
         "artists": "Trampa",
         "name": "Rise Up",
         "url": "https://open.spotify.com/track/3H1AzNrqO5iEpiP1OXf4PG",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
-        "artists": "Tim Ismag",
-        "name": "Anime Fight - VMP Remix",
-        "url": "https://open.spotify.com/track/4EFooHbhtfKsnqDnnJo04a",
         "album": "Excision 2015 Mix Compilation"
     },
     {
@@ -6594,15 +6600,15 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
-        "artists": "Excision",
-        "name": "Float Away",
-        "url": "https://open.spotify.com/track/3gx6iT217oS9cvuR8S91zp",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
         "artists": "Excision, Dion Timmer, Matt Rose",
         "name": "Again & Again",
         "url": "https://open.spotify.com/track/4zW0BghQS00tVlgWvrSXE0",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
+        "artists": "Flux Pavilion, Doktor",
+        "name": "International Anthem",
+        "url": "https://open.spotify.com/track/3zsFi9HiCuInnJQnZuUhNc",
         "album": "Excision 2015 Mix Compilation"
     },
     {
@@ -6615,6 +6621,12 @@
         "artists": "SNAILS, Big Ali",
         "name": "King is Back - Snails & Ghastly VIP",
         "url": "https://open.spotify.com/track/51k2zt8swZqrhH92C9t6RG",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
+        "artists": "Virtual Riot, Autodrive, SPLITBREED",
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/track/3nrU8azrbYz6C2IvdyFB7v",
         "album": "Excision 2015 Mix Compilation"
     },
     {
@@ -6642,9 +6654,21 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
+        "artists": "Skrillex, Diplo, CL, G-DRAGON",
+        "name": "Dirty Vibe - DJ Snake & Aazar Remix",
+        "url": "https://open.spotify.com/track/4AVjGk1r3TBstD7lcxh39E",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
         "artists": "Spag Heddy",
         "name": "Onvang",
         "url": "https://open.spotify.com/track/5QNXhYPqYaXaeJaDT2cKOx",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
+        "artists": "Bear Grillz, Datsik",
+        "name": "Drop That Low",
+        "url": "https://open.spotify.com/track/4PWYrWMFHmWU46bAdp5Czy",
         "album": "Excision 2015 Mix Compilation"
     },
     {
@@ -6672,9 +6696,27 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
+        "artists": "Moksi",
+        "name": "The Dopest - Cesqeaux Remix",
+        "url": "https://open.spotify.com/track/4dmyBFDYDV7qddAdah1UIu",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
+        "artists": "Fishermen, False Panic, Gravity",
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/track/3qOQT0csZMlBppLqEoikIl",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
         "artists": "Spag Heddy",
         "name": "Kick It",
         "url": "https://open.spotify.com/track/7CdXSorz24kixOLVjStjAW",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
+        "artists": "The Frim, Excision, Luciana",
+        "name": "Night Shine",
+        "url": "https://open.spotify.com/track/4g2HxVIybuHikWtBeYhH9E",
         "album": "Excision 2015 Mix Compilation"
     },
     {
@@ -6693,6 +6735,18 @@
         "artists": "Algo",
         "name": "New Slapz",
         "url": "https://open.spotify.com/track/6zP0FfA06WjrEKT1o2ZhHz",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
+        "artists": "Tim Ismag",
+        "name": "Anime Fight - VMP Remix",
+        "url": "https://open.spotify.com/track/4EFooHbhtfKsnqDnnJo04a",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
+        "artists": "Excision",
+        "name": "Float Away",
+        "url": "https://open.spotify.com/track/3gx6iT217oS9cvuR8S91zp",
         "album": "Excision 2015 Mix Compilation"
     },
     {
@@ -6793,12 +6847,6 @@
     },
     {
         "artists": "Linkin Park",
-        "name": "BURN IT DOWN",
-        "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I",
-        "album": "LIVING THINGS"
-    },
-    {
-        "artists": "Linkin Park",
         "name": "LIES GREED MISERY",
         "url": "https://open.spotify.com/track/3aZQQWGNShP6IzzaprPlFX",
         "album": "LIVING THINGS"
@@ -6853,8 +6901,26 @@
     },
     {
         "artists": "Linkin Park",
+        "name": "BURN IT DOWN",
+        "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I",
+        "album": "LIVING THINGS"
+    },
+    {
+        "artists": "Linkin Park",
         "name": "Papercut",
         "url": "https://open.spotify.com/track/00MYbj8WKfcv3Bz6qFhJKn",
+        "album": "Hybrid Theory"
+    },
+    {
+        "artists": "Linkin Park",
+        "name": "One Step Closer",
+        "url": "https://open.spotify.com/track/61fUybL3XS40gcffnnNPoX",
+        "album": "Hybrid Theory"
+    },
+    {
+        "artists": "Linkin Park",
+        "name": "With You",
+        "url": "https://open.spotify.com/track/5smQEb4bp9kYX0xgiGh4Fn",
         "album": "Hybrid Theory"
     },
     {
@@ -6895,26 +6961,14 @@
     },
     {
         "artists": "Linkin Park",
-        "name": "Cure for the Itch",
-        "url": "https://open.spotify.com/track/5ZZtBmfSsaIAkx6OZYUWzF",
-        "album": "Hybrid Theory"
-    },
-    {
-        "artists": "Linkin Park",
-        "name": "One Step Closer",
-        "url": "https://open.spotify.com/track/61fUybL3XS40gcffnnNPoX",
-        "album": "Hybrid Theory"
-    },
-    {
-        "artists": "Linkin Park",
-        "name": "With You",
-        "url": "https://open.spotify.com/track/5smQEb4bp9kYX0xgiGh4Fn",
-        "album": "Hybrid Theory"
-    },
-    {
-        "artists": "Linkin Park",
         "name": "Forgotten",
         "url": "https://open.spotify.com/track/5kBkdxl6uRdwtsGTONJa0z",
+        "album": "Hybrid Theory"
+    },
+    {
+        "artists": "Linkin Park",
+        "name": "Cure for the Itch",
+        "url": "https://open.spotify.com/track/5ZZtBmfSsaIAkx6OZYUWzF",
         "album": "Hybrid Theory"
     },
     {
@@ -7128,12 +7182,6 @@
         "album": "Shotgun"
     },
     {
-        "artists": "Flosstradamus, TroyBoi",
-        "name": "Soundclash",
-        "url": "https://open.spotify.com/track/6u2At0LqbNBOt0yIfYzpjc",
-        "album": "Soundclash EP"
-    },
-    {
         "artists": "Flosstradamus, NYMZ",
         "name": "Wavy",
         "url": "https://open.spotify.com/track/0Bia4SPAUnn00JCo13migf",
@@ -7152,6 +7200,12 @@
         "album": "Soundclash EP"
     },
     {
+        "artists": "Flosstradamus, TroyBoi",
+        "name": "Soundclash",
+        "url": "https://open.spotify.com/track/6u2At0LqbNBOt0yIfYzpjc",
+        "album": "Soundclash EP"
+    },
+    {
         "artists": "Caked Up",
         "name": "Rave Police - Original Mix",
         "url": "https://open.spotify.com/track/2bPTisOAQXDAJBLuXJSEmC",
@@ -7164,42 +7218,6 @@
         "album": "Tesla"
     },
     {
-        "artists": "Flux Pavilion, Andrea Martin",
-        "name": "Never See the Light",
-        "url": "https://open.spotify.com/track/49NP16wDh07Ns911FFQmi9",
-        "album": "Tesla"
-    },
-    {
-        "artists": "Flux Pavilion, Doktor",
-        "name": "International Anthem",
-        "url": "https://open.spotify.com/track/2wzPSYbxGhEJzd6BSxskU3",
-        "album": "Tesla"
-    },
-    {
-        "artists": "Flux Pavilion, Tom Cane",
-        "name": "Feels Good",
-        "url": "https://open.spotify.com/track/4m7UgJ3yDs75kn2ptsuCca",
-        "album": "Tesla"
-    },
-    {
-        "artists": "Flux Pavilion, Riff Raff",
-        "name": "Who Wants to Rock",
-        "url": "https://open.spotify.com/track/3P4pVY3MSsWOzq286bmvgr",
-        "album": "Tesla"
-    },
-    {
-        "artists": "Flux Pavilion",
-        "name": "I Got Something",
-        "url": "https://open.spotify.com/track/1AjXklmJCpU1NdvjbeLlBq",
-        "album": "Tesla"
-    },
-    {
-        "artists": "Flux Pavilion, BullySongs",
-        "name": "Ironheart",
-        "url": "https://open.spotify.com/track/1nWGLxs3Gpynin4EAiT7Uo",
-        "album": "Tesla"
-    },
-    {
         "artists": "Flux Pavilion",
         "name": "Vibrate",
         "url": "https://open.spotify.com/track/6DX1nPOuuW813OYJ78vjq4",
@@ -7209,6 +7227,18 @@
         "artists": "Flux Pavilion, Soulsonic Force",
         "name": "We Are Creators",
         "url": "https://open.spotify.com/track/5hcP1oYcWIHNkjhPYxcS0Z",
+        "album": "Tesla"
+    },
+    {
+        "artists": "Flux Pavilion, Andrea Martin",
+        "name": "Never See the Light",
+        "url": "https://open.spotify.com/track/49NP16wDh07Ns911FFQmi9",
+        "album": "Tesla"
+    },
+    {
+        "artists": "Flux Pavilion, Doktor",
+        "name": "International Anthem",
+        "url": "https://open.spotify.com/track/2wzPSYbxGhEJzd6BSxskU3",
         "album": "Tesla"
     },
     {
@@ -7233,6 +7263,30 @@
         "artists": "Flux Pavilion, Matthew Koma",
         "name": "Emotional",
         "url": "https://open.spotify.com/track/4yNoaxUJjnP50AXYoAZx4S",
+        "album": "Tesla"
+    },
+    {
+        "artists": "Flux Pavilion, Tom Cane",
+        "name": "Feels Good",
+        "url": "https://open.spotify.com/track/4m7UgJ3yDs75kn2ptsuCca",
+        "album": "Tesla"
+    },
+    {
+        "artists": "Flux Pavilion, Riff Raff",
+        "name": "Who Wants to Rock",
+        "url": "https://open.spotify.com/track/3P4pVY3MSsWOzq286bmvgr",
+        "album": "Tesla"
+    },
+    {
+        "artists": "Flux Pavilion",
+        "name": "I Got Something",
+        "url": "https://open.spotify.com/track/1AjXklmJCpU1NdvjbeLlBq",
+        "album": "Tesla"
+    },
+    {
+        "artists": "Flux Pavilion, BullySongs",
+        "name": "Ironheart",
+        "url": "https://open.spotify.com/track/1nWGLxs3Gpynin4EAiT7Uo",
         "album": "Tesla"
     },
     {
@@ -7363,12 +7417,6 @@
     },
     {
         "artists": "Black Veil Brides",
-        "name": "Wretched And Divine",
-        "url": "https://open.spotify.com/track/7jzj1RZRXFeTvdbvGpqEqq",
-        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
-    },
-    {
-        "artists": "Black Veil Brides",
         "name": "We Don't Belong",
         "url": "https://open.spotify.com/track/6jEDx1AuVMOrK58yydBgmA",
         "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
@@ -7395,12 +7443,6 @@
         "artists": "Black Veil Brides",
         "name": "Overture",
         "url": "https://open.spotify.com/track/4CnLYYTXDtHCaasoqVuJI4",
-        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
-    },
-    {
-        "artists": "Black Veil Brides",
-        "name": "Shadows Die",
-        "url": "https://open.spotify.com/track/7mNov97Eq4VVNOXMjIMVO6",
         "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
     },
     {
@@ -7435,20 +7477,8 @@
     },
     {
         "artists": "Black Veil Brides",
-        "name": "F.E.A.R. Transmission 3: As War Fades",
-        "url": "https://open.spotify.com/track/6khlu5a4U6qN2lWVpO2HKA",
-        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
-    },
-    {
-        "artists": "Black Veil Brides",
         "name": "In The End",
         "url": "https://open.spotify.com/track/0v8F6BHzAQrD9MWQcX3jbj",
-        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
-    },
-    {
-        "artists": "Black Veil Brides",
-        "name": "F.E.A.R: Final Transmission",
-        "url": "https://open.spotify.com/track/6wANeS85CdlSYgnAvlLtpO",
         "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
     },
     {
@@ -7470,33 +7500,33 @@
         "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
     },
     {
+        "artists": "Black Veil Brides",
+        "name": "Wretched And Divine",
+        "url": "https://open.spotify.com/track/7jzj1RZRXFeTvdbvGpqEqq",
+        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
+    },
+    {
+        "artists": "Black Veil Brides",
+        "name": "Shadows Die",
+        "url": "https://open.spotify.com/track/7mNov97Eq4VVNOXMjIMVO6",
+        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
+    },
+    {
+        "artists": "Black Veil Brides",
+        "name": "F.E.A.R. Transmission 3: As War Fades",
+        "url": "https://open.spotify.com/track/6khlu5a4U6qN2lWVpO2HKA",
+        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
+    },
+    {
+        "artists": "Black Veil Brides",
+        "name": "F.E.A.R: Final Transmission",
+        "url": "https://open.spotify.com/track/6wANeS85CdlSYgnAvlLtpO",
+        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
+    },
+    {
         "artists": "Linkin Park",
         "name": "Keys to the Kingdom",
         "url": "https://open.spotify.com/track/2cZXlLwkRmDww37tbEygXl",
-        "album": "The Hunting Party"
-    },
-    {
-        "artists": "Linkin Park",
-        "name": "Wastelands",
-        "url": "https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW",
-        "album": "The Hunting Party"
-    },
-    {
-        "artists": "Linkin Park",
-        "name": "Until It's Gone",
-        "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu",
-        "album": "The Hunting Party"
-    },
-    {
-        "artists": "Linkin Park",
-        "name": "Mark the Graves",
-        "url": "https://open.spotify.com/track/16AFbRYIdpesOleGTKClHs",
-        "album": "The Hunting Party"
-    },
-    {
-        "artists": "Linkin Park",
-        "name": "Final Masquerade",
-        "url": "https://open.spotify.com/track/3aYBjxTMvrEOP0A0UXg9ER",
         "album": "The Hunting Party"
     },
     {
@@ -7524,15 +7554,39 @@
         "album": "The Hunting Party"
     },
     {
+        "artists": "Linkin Park",
+        "name": "Wastelands",
+        "url": "https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW",
+        "album": "The Hunting Party"
+    },
+    {
+        "artists": "Linkin Park",
+        "name": "Until It's Gone",
+        "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu",
+        "album": "The Hunting Party"
+    },
+    {
         "artists": "Linkin Park, Daron Malakian",
         "name": "Rebellion (feat. Daron Malakian)",
         "url": "https://open.spotify.com/track/3zZ009FB8sc8JghwVrbLFq",
         "album": "The Hunting Party"
     },
     {
+        "artists": "Linkin Park",
+        "name": "Mark the Graves",
+        "url": "https://open.spotify.com/track/16AFbRYIdpesOleGTKClHs",
+        "album": "The Hunting Party"
+    },
+    {
         "artists": "Linkin Park, Tom Morello",
         "name": "Drawbar (feat. Tom Morello)",
         "url": "https://open.spotify.com/track/7MTDaY5oGjo4F8N5r7H8LT",
+        "album": "The Hunting Party"
+    },
+    {
+        "artists": "Linkin Park",
+        "name": "Final Masquerade",
+        "url": "https://open.spotify.com/track/3aYBjxTMvrEOP0A0UXg9ER",
         "album": "The Hunting Party"
     },
     {
