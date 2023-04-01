@@ -1,5 +1,11 @@
 [
     {
+        "artists": "Linkin Park",
+        "name": "Fighting Myself",
+        "url": "https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2",
+        "album": "Fighting Myself"
+    },
+    {
         "artists": "THIRST",
         "name": "1 2 3",
         "url": "https://open.spotify.com/track/1zbqduC6U7DRdDqGUqAU0P",
@@ -984,7 +990,7 @@
         "album": "IDK, Vol. 2"
     },
     {
-        "artists": "Oddprophet, Illaman",
+        "artists": "Oddprophet, ILLAMAN",
         "name": "British Gas",
         "url": "https://open.spotify.com/track/5fRfNIzmtZPbKv9yVEz5hA",
         "album": "Oracle EP"
@@ -2382,12 +2388,6 @@
         "album": "DEMIGOD"
     },
     {
-        "artists": "Famous Dex, Kai Wachi",
-        "name": "Hollow",
-        "url": "https://open.spotify.com/track/1Py5moq1DjrFQjUrBj0Z61",
-        "album": "DEMIGOD"
-    },
-    {
         "artists": "Kai Wachi",
         "name": "Photograph",
         "url": "https://open.spotify.com/track/0IOkIDlm2Ikdhjr5EVVzMM",
@@ -2403,6 +2403,12 @@
         "artists": "Kai Wachi",
         "name": "Demigod",
         "url": "https://open.spotify.com/track/4g6iGOyQh0d7WXA65Oy1o3",
+        "album": "DEMIGOD"
+    },
+    {
+        "artists": "Famous Dex, Kai Wachi",
+        "name": "Hollow",
+        "url": "https://open.spotify.com/track/1Py5moq1DjrFQjUrBj0Z61",
         "album": "DEMIGOD"
     },
     {
@@ -4398,12 +4404,6 @@
         "album": "Lost Lands 2017 Compilation"
     },
     {
-        "artists": "Excision, Badklaat, Sam King",
-        "name": "G Shit - Badklaat Remix",
-        "url": "https://open.spotify.com/track/5tnBEXMVEBNKAgDEs1WdDg",
-        "album": "Lost Lands 2017 Compilation"
-    },
-    {
         "artists": "Tisoki",
         "name": "Time Travel",
         "url": "https://open.spotify.com/track/2rj5x6dcCSWqATLlGFSGAo",
@@ -4503,6 +4503,12 @@
         "artists": "Excision, Dion Timmer, Messinian",
         "name": "Hoods Up",
         "url": "https://open.spotify.com/track/6a67mpVA2TNCTPwNpg8MuE",
+        "album": "Lost Lands 2017 Compilation"
+    },
+    {
+        "artists": "Excision, Badklaat, Sam King",
+        "name": "G Shit - Badklaat Remix",
+        "url": "https://open.spotify.com/track/5tnBEXMVEBNKAgDEs1WdDg",
         "album": "Lost Lands 2017 Compilation"
     },
     {
@@ -5082,12 +5088,6 @@
         "album": "Less Is More"
     },
     {
-        "artists": "Black Tiger Sex Machine, Twine",
-        "name": "Crazies feat. Husser - Twine Remix",
-        "url": "https://open.spotify.com/track/2NIOfER8oPbzKetVwV4FOr",
-        "album": "Welcome To Our Church Remixes"
-    },
-    {
         "artists": "Black Tiger Sex Machine, Convex, Karluv Klub",
         "name": "Infected - Convex Remix",
         "url": "https://open.spotify.com/track/0j9ywRLkooESNK9zrC5UpT",
@@ -5121,6 +5121,12 @@
         "artists": "Black Tiger Sex Machine, RIOT",
         "name": "Punks - RIOT Remix",
         "url": "https://open.spotify.com/track/2lH7bkBsHV9aOJWtvKak9l",
+        "album": "Welcome To Our Church Remixes"
+    },
+    {
+        "artists": "Black Tiger Sex Machine, Twine",
+        "name": "Crazies feat. Husser - Twine Remix",
+        "url": "https://open.spotify.com/track/2NIOfER8oPbzKetVwV4FOr",
         "album": "Welcome To Our Church Remixes"
     },
     {
@@ -5370,12 +5376,6 @@
         "album": "Another Day In Paradise"
     },
     {
-        "artists": "Belly",
-        "name": "God Bless",
-        "url": "https://open.spotify.com/track/5qwyx5xmN16aSr4EBqyAbq",
-        "album": "Another Day In Paradise"
-    },
-    {
         "artists": "Belly, Lil Wayne",
         "name": "Barely Sober",
         "url": "https://open.spotify.com/track/4c0AOiW43uUEkdVkchQfTJ",
@@ -5409,6 +5409,12 @@
         "artists": "Belly",
         "name": "Ballerina",
         "url": "https://open.spotify.com/track/7qGRddrzvhUiCkv7Nj5x3I",
+        "album": "Another Day In Paradise"
+    },
+    {
+        "artists": "Belly",
+        "name": "God Bless",
+        "url": "https://open.spotify.com/track/5qwyx5xmN16aSr4EBqyAbq",
         "album": "Another Day In Paradise"
     },
     {
@@ -5670,12 +5676,6 @@
         "album": "KillaGoons"
     },
     {
-        "artists": "Killakikitt, Snowgoons, Nks",
-        "name": "Népsavazás",
-        "url": "https://open.spotify.com/track/782GbVpFmu0CfzSpZ2w92G",
-        "album": "KillaGoons"
-    },
-    {
         "artists": "Killakikitt, Snowgoons, Ketioz, Mikee Mykanic",
         "name": "Slang Csempészek",
         "url": "https://open.spotify.com/track/4MzZnMn4Ue9MZ3wHdibdyS",
@@ -5697,6 +5697,12 @@
         "artists": "Killakikitt, Snowgoons, Slaine, N.B.S.",
         "name": "Lehettem Volna",
         "url": "https://open.spotify.com/track/4Ja8iPdG29Cl0CQig9GPIJ",
+        "album": "KillaGoons"
+    },
+    {
+        "artists": "Killakikitt, Snowgoons, Nks",
+        "name": "Népsavazás",
+        "url": "https://open.spotify.com/track/782GbVpFmu0CfzSpZ2w92G",
         "album": "KillaGoons"
     },
     {
@@ -5934,12 +5940,6 @@
         "album": "Listen Again"
     },
     {
-        "artists": "David Guetta, Cesqeaux",
-        "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Cesqeaux & Jeremia Jones Remix; Listenin' Continuous Mix",
-        "url": "https://open.spotify.com/track/5nDlSU5Yse741xGM7eVRY2",
-        "album": "Listen Again"
-    },
-    {
         "artists": "David Guetta",
         "name": "I'll Keep Loving You (feat. Birdy & Jaymes Young) vs Yesterday (feat. Bebe Rexha) - Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/3sUB9BsvGEbNmOwjQRy0s4",
@@ -6045,6 +6045,12 @@
         "artists": "David Guetta, AFROJACK",
         "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Afrojack Remix; Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/7LLzNQbyk0aV2RwSzhb7ac",
+        "album": "Listen Again"
+    },
+    {
+        "artists": "David Guetta, Cesqeaux",
+        "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Cesqeaux & Jeremia Jones Remix; Listenin' Continuous Mix",
+        "url": "https://open.spotify.com/track/5nDlSU5Yse741xGM7eVRY2",
         "album": "Listen Again"
     },
     {
@@ -6294,12 +6300,6 @@
         "album": "X Rated"
     },
     {
-        "artists": "Excision, Datsik",
-        "name": "8 Bit Superhero - Original Mix",
-        "url": "https://open.spotify.com/track/1YZrtHcSPosCfp0UyBI2G7",
-        "album": "X Rated"
-    },
-    {
         "artists": "Excision, Downlink",
         "name": "The Underground - Original Mix",
         "url": "https://open.spotify.com/track/2RnfTqO1FBipb47kD5FBHy",
@@ -6309,6 +6309,12 @@
         "artists": "Excision",
         "name": "Ohhh Nooo - Original Mix",
         "url": "https://open.spotify.com/track/2H40AlZtYSEh7bNTxj7z12",
+        "album": "X Rated"
+    },
+    {
+        "artists": "Excision, Datsik",
+        "name": "8 Bit Superhero - Original Mix",
+        "url": "https://open.spotify.com/track/1YZrtHcSPosCfp0UyBI2G7",
         "album": "X Rated"
     },
     {
@@ -6594,12 +6600,6 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
-        "artists": "SampliFire",
-        "name": "Misty",
-        "url": "https://open.spotify.com/track/2cF6D6lqI6jpW1jShQVxe5",
-        "album": "Excision 2015 Mix Compilation"
-    },
-    {
         "artists": "Excision, Dion Timmer, Matt Rose",
         "name": "Again & Again",
         "url": "https://open.spotify.com/track/4zW0BghQS00tVlgWvrSXE0",
@@ -6774,6 +6774,12 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
+        "artists": "SampliFire",
+        "name": "Misty",
+        "url": "https://open.spotify.com/track/2cF6D6lqI6jpW1jShQVxe5",
+        "album": "Excision 2015 Mix Compilation"
+    },
+    {
         "artists": "Excision",
         "name": "Float Away",
         "url": "https://open.spotify.com/track/3gx6iT217oS9cvuR8S91zp",
@@ -6883,12 +6889,6 @@
     },
     {
         "artists": "Linkin Park",
-        "name": "VICTIMIZED",
-        "url": "https://open.spotify.com/track/35jdp4bY3CABKBroODRq7Y",
-        "album": "LIVING THINGS"
-    },
-    {
-        "artists": "Linkin Park",
         "name": "ROADS UNTRAVELED",
         "url": "https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a",
         "album": "LIVING THINGS"
@@ -6915,6 +6915,12 @@
         "artists": "Linkin Park",
         "name": "I'LL BE GONE",
         "url": "https://open.spotify.com/track/3cQGb2POE359G9WH81bF60",
+        "album": "LIVING THINGS"
+    },
+    {
+        "artists": "Linkin Park",
+        "name": "VICTIMIZED",
+        "url": "https://open.spotify.com/track/35jdp4bY3CABKBroODRq7Y",
         "album": "LIVING THINGS"
     },
     {
@@ -7441,12 +7447,6 @@
     },
     {
         "artists": "Black Veil Brides",
-        "name": "Overture",
-        "url": "https://open.spotify.com/track/4CnLYYTXDtHCaasoqVuJI4",
-        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
-    },
-    {
-        "artists": "Black Veil Brides",
         "name": "Abeyance",
         "url": "https://open.spotify.com/track/47yXlaLeU9WRsqdWOmu4xf",
         "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
@@ -7533,6 +7533,12 @@
         "artists": "Black Veil Brides",
         "name": "F.E.A.R. Transmission 2: Trust",
         "url": "https://open.spotify.com/track/5kOYsO6MlWJl8ywq6O8KqU",
+        "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
+    },
+    {
+        "artists": "Black Veil Brides",
+        "name": "Overture",
+        "url": "https://open.spotify.com/track/4CnLYYTXDtHCaasoqVuJI4",
         "album": "Wretched and Divine: The Story Of The Wild Ones Ultimate Edition"
     },
     {
