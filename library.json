@@ -1,5 +1,29 @@
 [
     {
+        "artists": "REAPER, Kumarion",
+        "name": "The Uprising",
+        "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li",
+        "album": "The Uprising"
+    },
+    {
+        "artists": "666",
+        "name": "Supadupafly - On Air Edit",
+        "url": "https://open.spotify.com/track/66KWd1XHFg79jBp7wYv7FR",
+        "album": "Who's Afraid of ... ? (Platinum Edition)"
+    },
+    {
+        "artists": "Vinylshakerz",
+        "name": "One Night in Bangkok - Vinylshakerz Screen Cut",
+        "url": "https://open.spotify.com/track/7GtipYRRQbptOef5a5da8A",
+        "album": "One Night in Bangkok (Special Maxi Edition)"
+    },
+    {
+        "artists": "Wamdue Project, Rowald Steyn",
+        "name": "King Of My Castle - Rowald Steyn Remix",
+        "url": "https://open.spotify.com/track/46rKQx36mXAFSaF7L6epOg",
+        "album": "Worldwide Dance Hits"
+    },
+    {
         "artists": "David Guetta, Bebe Rexha",
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK",
@@ -271,7 +295,7 @@
     },
     {
         "artists": "Charli XCX",
-        "name": "Used To Know Me",
+        "name": "Used to Know Me",
         "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd",
         "album": "CRASH"
     },
