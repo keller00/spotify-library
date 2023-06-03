@@ -1,5 +1,35 @@
 [
     {
+        "artists": "AC Slater, Curbi",
+        "name": "Crave The Bassline",
+        "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q",
+        "album": "Crave The Bassline"
+    },
+    {
+        "artists": "Fox'd",
+        "name": "Cardiac Time Out",
+        "url": "https://open.spotify.com/track/5dS9KeKnbCdj6BTXYP3aMj",
+        "album": "Shot Callers Vol. 1"
+    },
+    {
+        "artists": "Avance, B.O.M",
+        "name": "Jeepers",
+        "url": "https://open.spotify.com/track/3Y6efSb7BDQmM1opLy9Qis",
+        "album": "Jeepers"
+    },
+    {
+        "artists": "Jiqui",
+        "name": "Scumbag",
+        "url": "https://open.spotify.com/track/4AmS248aotUhBqnqDiDHxX",
+        "album": "Scumbag EP"
+    },
+    {
+        "artists": "MUERTE",
+        "name": "DOOM TOMB - Original Mix",
+        "url": "https://open.spotify.com/track/6PUPOrSfcyiafIoSGAXIHg",
+        "album": "DEMONOLOGY EP"
+    },
+    {
         "artists": "FIFTY FIFTY",
         "name": "Cupid - Twin Ver.",
         "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7",
