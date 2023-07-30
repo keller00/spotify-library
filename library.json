@@ -1,5 +1,11 @@
 [
     {
+        "artists": "Grant Macdonald",
+        "name": "Ram Ranch",
+        "url": "https://open.spotify.com/track/6sGiI7V9kgLNEhPIxEJDii",
+        "album": "Ram Ranch"
+    },
+    {
         "artists": "Iniko",
         "name": "Jericho",
         "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh",
@@ -942,7 +948,7 @@
         "album": "Voices"
     },
     {
-        "artists": "Gawm, Frequency Pusher, Kurupt, Daz Dillinger, Tha Dogg Pound, Luvaboy Tj",
+        "artists": "GAWM, Frequency Pusher, Kurupt, Daz Dillinger, Tha Dogg Pound, Luvaboy Tj",
         "name": "Joker (Gawm Remix)",
         "url": "https://open.spotify.com/track/6MQjOwzFgivGZM7Ke30uhB",
         "album": "Joker (Gawm Remix)"
