@@ -1,5 +1,23 @@
 [
     {
+        "artists": "Ray Volpe",
+        "name": "HAPPY SONG",
+        "url": "https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b",
+        "album": "HAPPY SONG"
+    },
+    {
+        "artists": "spellthief",
+        "name": "Neurons",
+        "url": "https://open.spotify.com/track/2obGffIiicwaH6sTal3Kzw",
+        "album": "Neurons"
+    },
+    {
+        "artists": "Crankdat",
+        "name": "STFU",
+        "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw",
+        "album": "STFU"
+    },
+    {
         "artists": "Curbi, Kage",
         "name": "Stereo Function",
         "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc",
@@ -1440,7 +1458,7 @@
         "album": "POPSTAR (feat. Drake)"
     },
     {
-        "artists": "12th Planet, Barely Alive, PhaseOne",
+        "artists": "12th Planet, BARELY ALIVE, PhaseOne",
         "name": "Send It",
         "url": "https://open.spotify.com/track/5Nz2BnJroLw1HPDeynxWGx",
         "album": "Send It"
@@ -1968,7 +1986,7 @@
         "album": "Hadean EP"
     },
     {
-        "artists": "12th Planet, Bandlez, Barely Alive, Chibs, Dirtyphonics, Disciple, Dodge & Fuski, Eliminate, Fox Stevenson, Infekt, Modestep, MVRDA, Myro, Oliverse, PhaseOne, SampliFire, Terravita, Virus Syndicate, Virtual Riot",
+        "artists": "12th Planet, Bandlez, BARELY ALIVE, Chibs, Dirtyphonics, Disciple, Dodge & Fuski, Eliminate, Fox Stevenson, Infekt, Modestep, MVRDA, Myro, Oliverse, PhaseOne, SampliFire, Terravita, Virus Syndicate, Virtual Riot",
         "name": "We Don't Play",
         "url": "https://open.spotify.com/track/2nSvBHxMZz5buzG93DM2xr",
         "album": "Disciple Alliance Vol. 5"
@@ -2388,7 +2406,7 @@
         "album": "Arbiter"
     },
     {
-        "artists": "SNAILS, Barely Alive",
+        "artists": "SNAILS, BARELY ALIVE",
         "name": "Grime Rate",
         "url": "https://open.spotify.com/track/1cN1Je3IqatxpowpICjEpS",
         "album": "World of Slime"
@@ -4596,7 +4614,7 @@
         "album": "Connecting?"
     },
     {
-        "artists": "FuntCase, Barely Alive, Merky ACE",
+        "artists": "FuntCase, BARELY ALIVE, Merky ACE",
         "name": "4 Barz of Fury (Barely Alive Remix)",
         "url": "https://open.spotify.com/track/4ZKN72EBtD40vsuY1Z8vl6",
         "album": "4 Barz of Fury (Barely Alive Remix)"
@@ -4824,7 +4842,7 @@
         "album": "Lost Lands 2017 Compilation"
     },
     {
-        "artists": "FuntCase, Barely Alive, Merky ACE",
+        "artists": "FuntCase, BARELY ALIVE, Merky ACE",
         "name": "4 Barz of Fury - Barely Alive Remix",
         "url": "https://open.spotify.com/track/46XQUPtnInkuU1TorHUFaF",
         "album": "Lost Lands 2017 Compilation"
@@ -5346,7 +5364,7 @@
         "album": "Excision 2016 Mix Compilation"
     },
     {
-        "artists": "Barely Alive, Mayhem, Antiserum",
+        "artists": "BARELY ALIVE, Mayhem, Antiserum",
         "name": "Scoop - Mayhem & Antiserum Remix",
         "url": "https://open.spotify.com/track/1NbXBJxeUcaV7c10vC0OTn",
         "album": "Excision 2016 Mix Compilation"
