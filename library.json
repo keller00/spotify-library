@@ -1,5 +1,35 @@
 [
     {
+        "artists": "Skrillex, PinkPantheress, Trippie Redd",
+        "name": "Way Back",
+        "url": "https://open.spotify.com/track/6aE1kHca8lxdIDMgZwAwfJ",
+        "album": "Don’t Get Too Close"
+    },
+    {
+        "artists": "Skrillex, Justin Bieber, Don Toliver",
+        "name": "Don’t Go (with Justin Bieber & Don Toliver)",
+        "url": "https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl",
+        "album": "Don’t Go (with Justin Bieber & Don Toliver)"
+    },
+    {
+        "artists": "ZHU, Skrillex, THEY.",
+        "name": "Working For It",
+        "url": "https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc",
+        "album": "GENERATIONWHY"
+    },
+    {
+        "artists": "Swanky Tunes, Veronica Bravo, J R",
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/track/3I56dGSUvEYL96kmdCbaNx",
+        "album": "Give It To Me"
+    },
+    {
+        "artists": "Sonny Wern, Lyente, Quinten Circle, ZANA",
+        "name": "Dance For Me (1, 2, 3) - Stutter Techno",
+        "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV",
+        "album": "Dance For Me (1, 2, 3) [Stutter Techno]"
+    },
+    {
         "artists": "RayRay",
         "name": "Drama Queen",
         "url": "https://open.spotify.com/track/0MfIwyDAewEpTRCClaqkOS",
@@ -805,7 +835,7 @@
     },
     {
         "artists": "Tiësto, Charli XCX",
-        "name": "Hot In It",
+        "name": "Hot In It (feat. Charli XCX)",
         "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W",
         "album": "Hot In It"
     },
@@ -5094,7 +5124,7 @@
         "album": "Born Again (Remixes)"
     },
     {
-        "artists": "David Guetta",
+        "artists": "David Guetta, Flo Rida, Nicki Minaj",
         "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
         "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB",
         "album": "Nothing but the Beat (Ultimate Edition)"
@@ -6474,49 +6504,49 @@
         "album": "Listen Again"
     },
     {
-        "artists": "David Guetta",
+        "artists": "David Guetta, Fetty Wap, Sia",
         "name": "Bang My Head (feat. Sia & Fetty Wap) - Extended",
         "url": "https://open.spotify.com/track/1dM6FsF16SIoV7VdCE2r38",
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
-        "artists": "David Guetta, Feder",
+        "artists": "David Guetta, Fetty Wap, Sia, Feder",
         "name": "Bang My Head (feat. Sia & Fetty Wap) - Feder Remix",
         "url": "https://open.spotify.com/track/1u4s5X0XaMCyJ1aU8AeP3R",
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
-        "artists": "David Guetta, JP Candela",
+        "artists": "David Guetta, Sia, JP Candela",
         "name": "Bang My Head (feat. Sia) - JP Candela Remix",
         "url": "https://open.spotify.com/track/3Zh3OaL2VBQEq2rPHXs3Kj",
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
-        "artists": "David Guetta",
+        "artists": "David Guetta, Sia",
         "name": "Bang My Head (feat. Sia) - Extended",
         "url": "https://open.spotify.com/track/3b4eSYwYviyzCgKldJQ8RD",
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
-        "artists": "David Guetta, Robin Schulz",
+        "artists": "David Guetta, Fetty Wap, Sia, Robin Schulz",
         "name": "Bang My Head (feat. Sia & Fetty Wap) - Robin Schulz Remix",
         "url": "https://open.spotify.com/track/440LuUlgdK3j9Uj8Q9L3Yj",
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
-        "artists": "David Guetta, Dave Winnel",
+        "artists": "David Guetta, Fetty Wap, Sia, Dave Winnel",
         "name": "Bang My Head (feat. Sia & Fetty Wap) - Kryder & Dave Winnel Remix",
         "url": "https://open.spotify.com/track/4ZNMi6ilssjpo8q8cKdMP8",
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
-        "artists": "David Guetta, Albert Harvey, GLOWINTHEDARK, Kevin Ramos",
+        "artists": "David Guetta, Sia, Albert Harvey, GLOWINTHEDARK, Kevin Ramos",
         "name": "Bang My Head (feat. Sia) - GLOWINTHEDARK Remix",
         "url": "https://open.spotify.com/track/4jJDLe0f7VckXqJgfhApA1",
         "album": "Bang My Head (feat. Sia & Fetty Wap)"
     },
     {
-        "artists": "David Guetta",
+        "artists": "David Guetta, Zara Larsson",
         "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
         "url": "https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR",
         "album": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]"
