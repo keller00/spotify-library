@@ -1,5 +1,35 @@
 [
     {
+        "artists": "Grey, Virtual Riot",
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt",
+        "album": "RAVEN"
+    },
+    {
+        "artists": "Izadi",
+        "name": "Third Eye Funk",
+        "url": "https://open.spotify.com/track/0zrqGU9QaIHEanM0RRzuPR",
+        "album": "Hypnotic EP"
+    },
+    {
+        "artists": "WHIPPED CREAM",
+        "name": "Rewind.. (But I Love You)",
+        "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55",
+        "album": "Someone You Can Count On"
+    },
+    {
+        "artists": "Groove Crackers, Leyla Diamondi",
+        "name": "Prada - Techno Remix",
+        "url": "https://open.spotify.com/track/4NfQme3KTKL9HjCQwJYmlH",
+        "album": "Prada (Techno Remix)"
+    },
+    {
+        "artists": "New Beat Order, Lonelysoul., TECHNO KING, ROXANA, Bladez",
+        "name": "Tokyo Drift - HYPERTECHNO",
+        "url": "https://open.spotify.com/track/6doNGHw7rSmtNgJ5Of31yq",
+        "album": "Tokyo Drift (HYPERTECHNO)"
+    },
+    {
         "artists": "BLVCK KARIBOU",
         "name": "Wormhole - Radio Edit",
         "url": "https://open.spotify.com/track/5y0IzyegCLkpjJxZ7SjVtT",
@@ -2064,7 +2094,7 @@
         "album": "New Levels"
     },
     {
-        "artists": "LeKtriQue, Wenzday",
+        "artists": "Lektrique, Wenzday",
         "name": "Break (My Heart)",
         "url": "https://open.spotify.com/track/1kjs6z6gLjcBWvZ71EJNXz",
         "album": "Break (My Heart)"
@@ -2154,7 +2184,7 @@
         "album": "Hadean EP"
     },
     {
-        "artists": "12th Planet, Bandlez, BARELY ALIVE, Chibs, Dirtyphonics, Disciple, Dodge & Fuski, Eliminate, Fox Stevenson, Infekt, Modestep, MVRDA, Myro, Oliverse, PhaseOne, SampliFire, Terravita, Virus Syndicate, Virtual Riot",
+        "artists": "12th Planet, Bandlez, BARELY ALIVE, Chibs, Dirtyphonics, Disciple, Dodge & Fuski, Eliminate, Fox Stevenson, INFEKT, Modestep, MVRDA, Myro, Oliverse, PhaseOne, SampliFire, Terravita, Virus Syndicate, Virtual Riot",
         "name": "We Don't Play",
         "url": "https://open.spotify.com/track/2nSvBHxMZz5buzG93DM2xr",
         "album": "Disciple Alliance Vol. 5"
@@ -3000,7 +3030,7 @@
         "album": "DEMIGOD"
     },
     {
-        "artists": "Black Tiger Sex Machine, LeKtriQue, Teminite",
+        "artists": "Black Tiger Sex Machine, Lektrique, Teminite",
         "name": "Death - Teminite Remix",
         "url": "https://open.spotify.com/track/6ylWnJnYaH51h8Exp5uWJ1",
         "album": "New Worlds Remixes"
@@ -3372,7 +3402,7 @@
         "album": "Fuck It"
     },
     {
-        "artists": "Black Tiger Sex Machine, LeKtriQue",
+        "artists": "Black Tiger Sex Machine, Lektrique",
         "name": "Armada",
         "url": "https://open.spotify.com/track/1WSCpzGcW3D85bEumyn9uP",
         "album": "Welcome To Our Church"
@@ -5562,7 +5592,7 @@
         "album": "Excision 2016 Mix Compilation"
     },
     {
-        "artists": "Black Tiger Sex Machine, LeKtriQue",
+        "artists": "Black Tiger Sex Machine, Lektrique",
         "name": "Armada",
         "url": "https://open.spotify.com/track/3u5vzJsUVd59pH1rGX4shP",
         "album": "Excision 2016 Mix Compilation"
@@ -5670,7 +5700,7 @@
         "album": "Welcome To Our Church Remixes"
     },
     {
-        "artists": "Black Tiger Sex Machine, Sullivan King, LeKtriQue",
+        "artists": "Black Tiger Sex Machine, Sullivan King, Lektrique",
         "name": "Armada - Sullivan King Remix",
         "url": "https://open.spotify.com/track/48RxNNIJFuUWgf01DHz3eZ",
         "album": "Welcome To Our Church Remixes"
@@ -7140,7 +7170,7 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
-        "artists": "Black Tiger Sex Machine, LeKtriQue",
+        "artists": "Black Tiger Sex Machine, Lektrique",
         "name": "Religion",
         "url": "https://open.spotify.com/track/2PS2Iazv4KeJRWBGeB0I0q",
         "album": "Excision 2015 Mix Compilation"
