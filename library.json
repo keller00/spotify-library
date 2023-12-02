@@ -1,5 +1,23 @@
 [
     {
+        "artists": "RayRay",
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/track/67zoBTjrNtx50Ck4qiCCk6",
+        "album": "Can't Stop"
+    },
+    {
+        "artists": "Neon Steve, Dakota Sixx",
+        "name": "Don't Call",
+        "url": "https://open.spotify.com/track/5v8Gce3zzKorqTnldjxB7G",
+        "album": "Don't Call"
+    },
+    {
+        "artists": "TRIP DROP",
+        "name": "MOJITO",
+        "url": "https://open.spotify.com/track/0ANFEAZ8dsuKUJudHxvPiI",
+        "album": "Underground Sounds Vol. 10"
+    },
+    {
         "artists": "Grey, Virtual Riot",
         "name": "RAVEN",
         "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt",
@@ -34,12 +52,6 @@
         "name": "Wormhole - Radio Edit",
         "url": "https://open.spotify.com/track/5y0IzyegCLkpjJxZ7SjVtT",
         "album": "Wormhole (Radio Edit)"
-    },
-    {
-        "artists": "N3URO",
-        "name": "How to HeadBang",
-        "url": "https://open.spotify.com/track/5SAilnsrXio0VFVxMBbt3a",
-        "album": "Riddim or Die, Pt. II"
     },
     {
         "artists": "Mondello'G, LAUWEND, Gaullin",
