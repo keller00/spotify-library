@@ -1,5 +1,17 @@
 [
     {
+        "artists": "Drake, J. Cole",
+        "name": "First Person Shooter (feat. J. Cole)",
+        "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU",
+        "album": "For All The Dogs"
+    },
+    {
+        "artists": "James Hype, Kim Petras",
+        "name": "Drums (Feat. Kim Petras)",
+        "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc",
+        "album": "Drums (Feat. Kim Petras)"
+    },
+    {
         "artists": "RayRay",
         "name": "Can't Stop",
         "url": "https://open.spotify.com/track/67zoBTjrNtx50Ck4qiCCk6",
@@ -271,7 +283,7 @@
     },
     {
         "artists": "cassö, RAYE, D-Block Europe",
-        "name": "Prada - Extended",
+        "name": "Prada (feat. D-Block Europe) - Extended",
         "url": "https://open.spotify.com/track/5oLQWY5JwAiBHx5NMKcUiQ",
         "album": "Prada"
     },
@@ -630,7 +642,7 @@
         "album": "Move To The Beat Like"
     },
     {
-        "artists": "GHENGAR, GHASTLY",
+        "artists": "GHENGAR, Ghastly",
         "name": "FINAL BOSS",
         "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA",
         "album": "FINAL BOSS"
@@ -1008,7 +1020,7 @@
         "album": "Run It Up EP"
     },
     {
-        "artists": "GHENGAR, GHASTLY",
+        "artists": "GHENGAR, Ghastly",
         "name": "NECROMANCER",
         "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF",
         "album": "NECROMANCER EP"
@@ -1375,9 +1387,9 @@
     },
     {
         "artists": "bbno$, Rich Brian, Diplo",
-        "name": "edamame (feat. Rich Brian) - Diplo Remix",
+        "name": "edamame - Diplo Remix",
         "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t",
-        "album": "edamame (feat. Rich Brian) [Diplo Remix]"
+        "album": "edamame (Diplo Remix)"
     },
     {
         "artists": "Öwnboss, Sevek",
@@ -1686,7 +1698,7 @@
         "album": "Bad Habits"
     },
     {
-        "artists": "GHASTLY",
+        "artists": "Ghastly",
         "name": "Burner",
         "url": "https://open.spotify.com/track/4eD02ae441W9cFnRahfJG8",
         "album": "Burner"
@@ -2628,10 +2640,10 @@
         "album": "Ichor"
     },
     {
-        "artists": "Major Lazer, J Balvin, El Alfa, Diplo",
-        "name": "Que Calor (feat. J Balvin & El Alfa)",
+        "artists": "Major Lazer, J Balvin, El Alfa",
+        "name": "Que Calor",
         "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7",
-        "album": "Que Calor (feat. J Balvin & El Alfa)"
+        "album": "Que Calor"
     },
     {
         "artists": "Trampa, Rico Act",
@@ -3942,7 +3954,7 @@
         "album": "Rott N' Roll Pt. 1"
     },
     {
-        "artists": "Zomboy, GHASTLY",
+        "artists": "Zomboy, Ghastly",
         "name": "Lights Out - Ghastly Remix",
         "url": "https://open.spotify.com/track/7lY0fJVuJMY790QoVaAxOT",
         "album": "Neon Grave Remixed"
@@ -4104,7 +4116,7 @@
         "album": "Bass War"
     },
     {
-        "artists": "GHASTLY",
+        "artists": "Ghastly",
         "name": "Geisha (The Tokyo VIP)",
         "url": "https://open.spotify.com/track/73TV5BENmsEnvspM8Odp3N",
         "album": "The Mystifying Oracle"
@@ -4500,7 +4512,7 @@
         "album": "Hit Rewind"
     },
     {
-        "artists": "NGHTMRE, GHASTLY",
+        "artists": "NGHTMRE, Ghastly",
         "name": "End Of The Night",
         "url": "https://open.spotify.com/track/5BOsXSau6i4IhmxKRBjZ6n",
         "album": "End Of The Night"
