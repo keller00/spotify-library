@@ -1,5 +1,35 @@
 [
     {
+        "artists": "Ricky West",
+        "name": "DUBSTEP DISCO",
+        "url": "https://open.spotify.com/track/4bovrkersSGjCTiVNGDtCo",
+        "album": "DUBSTEP DISCO"
+    },
+    {
+        "artists": "G-Rex, Hairitage",
+        "name": "Pocket Change",
+        "url": "https://open.spotify.com/track/2Y5SakTfLyezs5dBElmc78",
+        "album": "Pocket Change"
+    },
+    {
+        "artists": "Dillon Francis",
+        "name": "Goodies",
+        "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG",
+        "album": "Goodies"
+    },
+    {
+        "artists": "Alec Benjamin",
+        "name": "Let Me Down Slowly",
+        "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d",
+        "album": "Narrated For You"
+    },
+    {
+        "artists": "Michael Medrano",
+        "name": "PORNSTAR ☆",
+        "url": "https://open.spotify.com/track/4cSF5uAucQiisxNqoDLAKN",
+        "album": "PORNSTAR ☆"
+    },
+    {
         "artists": "Yellow Claw, Juyen Sebulba, RayRay",
         "name": "Supernoize",
         "url": "https://open.spotify.com/track/6UGH208lKPyQZLIk6Eml1b",
@@ -258,7 +288,7 @@
         "album": "Vertigo"
     },
     {
-        "artists": "Chapado, CERES",
+        "artists": "Chapado",
         "name": "Lean On",
         "url": "https://open.spotify.com/track/5xDTqEZTafl2i7feEOgB2t",
         "album": "Lean On"
