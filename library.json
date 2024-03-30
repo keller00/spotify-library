@@ -1,5 +1,35 @@
 [
     {
+        "artists": "Bring Me The Horizon, BABYMETAL",
+        "name": "Kingslayer (feat. BABYMETAL)",
+        "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
+        "album": "POST HUMAN: SURVIVAL HORROR"
+    },
+    {
+        "artists": "David Guetta, Mason, Princess Superstar",
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi",
+        "album": "Perfect (Exceeder)"
+    },
+    {
+        "artists": "Fred again..",
+        "name": "Jungle",
+        "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE",
+        "album": "Jungle"
+    },
+    {
+        "artists": "The Temper Trap, John Summit, Silver Panda",
+        "name": "Sweet Disposition - John Summit & Silver Panda Remix",
+        "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL",
+        "album": "Sweet Disposition (John Summit & Silver Panda Remix)"
+    },
+    {
+        "artists": "Tobiahs",
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r",
+        "album": "Lifetime"
+    },
+    {
         "artists": "Automhate, SVDDEN DEATH",
         "name": "Tormento",
         "url": "https://open.spotify.com/track/2uPvR3tMh4C445InROPuDL",
@@ -10,12 +40,6 @@
         "name": "RIDE OR DIE - Hard Mix",
         "url": "https://open.spotify.com/track/1IaflfAEjKzjbh4h9ikNhq",
         "album": "RIDE OR DIE (Hard Mix)"
-    },
-    {
-        "artists": "Hannah Laing, Peaches",
-        "name": "Fuck The Pain Away",
-        "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0",
-        "album": "Triple F"
     },
     {
         "artists": "Steve Aoki, Lil Jon",
