@@ -1,5 +1,11 @@
 [
     {
+        "artists": "Example",
+        "name": "Kickstarts",
+        "url": "https://open.spotify.com/track/07WEDHF2YwVgYuBugi2ECO",
+        "album": "Won't Go Quietly"
+    },
+    {
         "artists": "Extol RIse, Kingdom Squad, Marco Tonio",
         "name": "Jesus is my King",
         "url": "https://open.spotify.com/track/13PemNTQvisDcxRt3rXUti",
@@ -106,12 +112,6 @@
         "name": "Zombie (feat. Valerie Broussard)",
         "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57",
         "album": "Zombie (feat. Valerie Broussard)"
-    },
-    {
-        "artists": "Smoakland, SIPPY, ProbCause",
-        "name": "Smoak & Sip",
-        "url": "https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA",
-        "album": "Smoak & Sip"
     },
     {
         "artists": "SVDDEN DEATH, Wooli",
@@ -6861,12 +6861,6 @@
         "artists": "David Guetta, VASSY, Sjoerd Janssen, Wouter Janssen",
         "name": "BAD (feat. Vassy) - Listenin' Continuous Mix",
         "url": "https://open.spotify.com/track/01ernMIZmczJ6N35O5oQTq",
-        "album": "Listen Again"
-    },
-    {
-        "artists": "David Guetta, Kaz James",
-        "name": "Blast Off - Listenin' Continuous Mix",
-        "url": "https://open.spotify.com/track/1Ty2QpEBFaQ19sVt5KZvvb",
         "album": "Listen Again"
     },
     {
