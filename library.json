@@ -1,5 +1,29 @@
 [
     {
+        "artists": "The Upbeats, Noisia, Goth-Trad, DJ Kentaro",
+        "name": "Long Shadows",
+        "url": "https://open.spotify.com/track/1ITZFSSv8GvS6xyv9bzQUO",
+        "album": "No Sleep 'Til Japan & Iceland"
+    },
+    {
+        "artists": "Oakwite",
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/track/6mfoCvN8LN2lxN6GqMvgpZ",
+        "album": "Curse"
+    },
+    {
+        "artists": "Noisia",
+        "name": "Tentacles",
+        "url": "https://open.spotify.com/track/31uHF6XnKwuOqUzYM6O2CK",
+        "album": "Outer Edges"
+    },
+    {
+        "artists": "Noisia, The Upbeats",
+        "name": "Halcyon",
+        "url": "https://open.spotify.com/track/6wbt5QD31GiRa28x5vPJty",
+        "album": "Closer"
+    },
+    {
         "artists": "Example",
         "name": "Kickstarts",
         "url": "https://open.spotify.com/track/07WEDHF2YwVgYuBugi2ECO",
