@@ -1,5 +1,23 @@
 [
     {
+        "artists": "Deathpact",
+        "name": "Danger",
+        "url": "https://open.spotify.com/track/3n8ieO7vXTOIJjAYeRgWEi",
+        "album": "Danger"
+    },
+    {
+        "artists": "Picco",
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC",
+        "album": "Hesitate"
+    },
+    {
+        "artists": "WILL K",
+        "name": "Sun Is Dark",
+        "url": "https://open.spotify.com/track/6Lmx1AyfNlmOVCW2Sxisnk",
+        "album": "Sun Is Dark"
+    },
+    {
         "artists": "Jaxomy, Agatino Romero, Raffaella Carrà",
         "name": "Pedro",
         "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW",
@@ -1110,7 +1128,7 @@
         "album": "Be Kind (with Halsey) [Surf Mesa Remix]"
     },
     {
-        "artists": "Charli XCX",
+        "artists": "Charli xcx",
         "name": "Used to Know Me",
         "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd",
         "album": "CRASH"
@@ -1278,7 +1296,7 @@
         "album": "Cold Case (VIP)"
     },
     {
-        "artists": "Tiësto, Charli XCX",
+        "artists": "Tiësto, Charli xcx",
         "name": "Hot In It (feat. Charli XCX)",
         "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W",
         "album": "Hot In It"
@@ -1866,7 +1884,7 @@
         "album": "Titan's Doom EP"
     },
     {
-        "artists": "Joel Corry, Jax Jones, Charli XCX, Saweetie",
+        "artists": "Joel Corry, Jax Jones, Charli xcx, Saweetie",
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ",
         "album": "OUT OUT (feat. Charli XCX & Saweetie)"
@@ -5082,7 +5100,7 @@
         "album": "Scared to Be Lonely"
     },
     {
-        "artists": "David Guetta, AFROJACK, Charli XCX, French Montana",
+        "artists": "David Guetta, AFROJACK, Charli xcx, French Montana",
         "name": "Dirty Sexy Money (feat. Charli XCX & French Montana)",
         "url": "https://open.spotify.com/track/0tPQPaOKM32WgMSbPCYyRH",
         "album": "Dirty Sexy Money (feat. Charli XCX & French Montana)"
