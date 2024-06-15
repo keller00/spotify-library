@@ -1,5 +1,29 @@
 [
     {
+        "artists": "Kaskade, deadmau5, Sofi Tukker, Kx5",
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3",
+        "album": "Sacrifice"
+    },
+    {
+        "artists": "deadmau5, SOFI",
+        "name": "Sofi Needs a Ladder",
+        "url": "https://open.spotify.com/track/0vMeJiwuTZL61CtF2OAQxW",
+        "album": "5 Years of mau5"
+    },
+    {
+        "artists": "Tony Richard",
+        "name": "Roma",
+        "url": "https://open.spotify.com/track/4vwJtaqmkVUxDC1Mso7Sqk",
+        "album": "Roma"
+    },
+    {
+        "artists": "Wahlstedt, Voltech",
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/track/437HzuCcsjDaj3hsvOOmZu",
+        "album": "La Fiesta"
+    },
+    {
         "artists": "Deathpact",
         "name": "Danger",
         "url": "https://open.spotify.com/track/3n8ieO7vXTOIJjAYeRgWEi",
@@ -5562,7 +5586,7 @@
         "album": "Wrecking Ball"
     },
     {
-        "artists": "thmpsn, Hail Luna",
+        "artists": "THMPSN, Hail Luna",
         "name": "Make It Rain",
         "url": "https://open.spotify.com/track/3Ye2buTEWwDI9bRrjqKLFa",
         "album": "Make It Rain"
