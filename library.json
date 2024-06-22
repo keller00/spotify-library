@@ -1,5 +1,17 @@
 [
     {
+        "artists": "My Chemical Romance",
+        "name": "Famous Last Words",
+        "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83",
+        "album": "The Black Parade"
+    },
+    {
+        "artists": "Evanescence",
+        "name": "Bring Me To Life",
+        "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
+        "album": "Fallen"
+    },
+    {
         "artists": "Kaskade, deadmau5, Sofi Tukker, Kx5",
         "name": "Sacrifice",
         "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3",
