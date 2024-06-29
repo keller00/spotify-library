@@ -1,5 +1,35 @@
 [
     {
+        "artists": "Troye Sivan",
+        "name": "Rush",
+        "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae",
+        "album": "Something To Give Each Other"
+    },
+    {
+        "artists": "Khantrast",
+        "name": "She Bad",
+        "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp",
+        "album": "She Bad"
+    },
+    {
+        "artists": "Don Diablo, Felix Jaehn",
+        "name": "Monster",
+        "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9",
+        "album": "Monster"
+    },
+    {
+        "artists": "Sean Paul, Odd Mob",
+        "name": "Get Busy - Odd Mob Club Mix",
+        "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6",
+        "album": "Get Busy (Odd Mob Club Mix)"
+    },
+    {
+        "artists": "bbno$",
+        "name": "it boy",
+        "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH",
+        "album": "it boy"
+    },
+    {
         "artists": "My Chemical Romance",
         "name": "Famous Last Words",
         "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83",
@@ -2556,7 +2586,7 @@
         "album": "Hadean EP"
     },
     {
-        "artists": "12th Planet, Bandlez, BARELY ALIVE, Chibs, Dirtyphonics, Disciple, Dodge & Fuski, Fox Stevenson, INFEKT, Modestep, MVRDA, Myro, Oliverse, SampliFire, Terravita, Virus Syndicate, Virtual Riot",
+        "artists": "12th Planet, Bandlez, Chibs, Dirtyphonics, Disciple, Dodge & Fuski, Fox Stevenson, INFEKT, Modestep, MVRDA, Myro, Terravita, Virus Syndicate, Virtual Riot",
         "name": "We Don't Play",
         "url": "https://open.spotify.com/track/2nSvBHxMZz5buzG93DM2xr",
         "album": "Disciple Alliance Vol. 5"
