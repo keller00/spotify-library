@@ -1,5 +1,29 @@
 [
     {
+        "artists": "Ray Volpe",
+        "name": "SONG REQUEST",
+        "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD",
+        "album": "SONG REQUEST"
+    },
+    {
+        "artists": "Hydraulix, Oski",
+        "name": "HAWT",
+        "url": "https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54",
+        "album": "HAWT"
+    },
+    {
+        "artists": "David Guetta, MORTEN, Prophecy",
+        "name": "Kill The Vibe",
+        "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp",
+        "album": "Kill The Vibe"
+    },
+    {
+        "artists": "Armin van Buuren",
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv",
+        "album": "Balance"
+    },
+    {
         "artists": "Troye Sivan",
         "name": "Rush",
         "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae",
