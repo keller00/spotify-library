@@ -1,5 +1,29 @@
 [
     {
+        "artists": "Post Malone, Morgan Wallen",
+        "name": "I Had Some Help (Feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP",
+        "album": "I Had Some Help"
+    },
+    {
+        "artists": "1nonly, Jasiah",
+        "name": "GHOSTKILLA",
+        "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w",
+        "album": "GHOSTKILLA"
+    },
+    {
+        "artists": "1nonly, Freddie Dredd",
+        "name": "POPTHATRUNK",
+        "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP",
+        "album": "POPTHATRUNK"
+    },
+    {
+        "artists": "Tommy Richman",
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A",
+        "album": "MILLION DOLLAR BABY"
+    },
+    {
         "artists": "Eminem, Big Sean, BabyTron",
         "name": "Tobey (feat. Big Sean and BabyTron)",
         "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW",
