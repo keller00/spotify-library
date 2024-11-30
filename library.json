@@ -1,5 +1,101 @@
 [
     {
+        "artists": "Dr. Fresch, House Call",
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/track/71hBq5pcZeN0tfpiJiDY6c",
+        "album": "Armageddon"
+    },
+    {
+        "artists": "Deathpact",
+        "name": "GATEKEEPER",
+        "url": "https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g",
+        "album": "GATEKEEPER"
+    },
+    {
+        "artists": "Hanumankind, Kalmi",
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW",
+        "album": "Big Dawgs"
+    },
+    {
+        "artists": "Coolio, Holy Priest, 1 World",
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/track/7dYWuswcYTfETp2NxUqpRn",
+        "album": "Gangsta's Paradise"
+    },
+    {
+        "artists": "Danny Ores",
+        "name": "Voodoo People",
+        "url": "https://open.spotify.com/track/2BRfY2da5jg7bXBgZkrT25",
+        "album": "Voodoo People"
+    },
+    {
+        "artists": "Eliminate",
+        "name": "EGOTRIP",
+        "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg",
+        "album": "Get Off The Internet"
+    },
+    {
+        "artists": "David Guetta, OneRepublic",
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq",
+        "album": "I Don't Wanna Wait"
+    },
+    {
+        "artists": "Charli xcx",
+        "name": "Boom Clap",
+        "url": "https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC",
+        "album": "SUCKER"
+    },
+    {
+        "artists": "MUST DIE!",
+        "name": "Selecta",
+        "url": "https://open.spotify.com/track/0ZVJQ6cRV4N5FaRpeS6f3H",
+        "album": "VAMPIRE WEAPON: MIDNIGHT"
+    },
+    {
+        "artists": "Boges, CLUBWRK",
+        "name": "LET'S DANCE",
+        "url": "https://open.spotify.com/track/4fPt2NWrSAvVZgyNAZAVm4",
+        "album": "LET'S DANCE"
+    },
+    {
+        "artists": "Saint Punk, Matthew Grant",
+        "name": "Shadow (Station VI)",
+        "url": "https://open.spotify.com/track/5U3DzYsUblqa9qLbKSSQ6J",
+        "album": "STATIONS"
+    },
+    {
+        "artists": "Will Sparks, Gigi Russ, CLUBWRK",
+        "name": "Round Round",
+        "url": "https://open.spotify.com/track/3ZqxU12JwEzKnxZPqJRmP6",
+        "album": "Round Round"
+    },
+    {
+        "artists": "ROSÉ, Bruno Mars",
+        "name": "APT.",
+        "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+        "album": "APT."
+    },
+    {
+        "artists": "Charli xcx, Billie Eilish",
+        "name": "Guess featuring billie eilish",
+        "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v",
+        "album": "Guess featuring Billie Eilish"
+    },
+    {
+        "artists": "Bossfight",
+        "name": "Decimate",
+        "url": "https://open.spotify.com/track/58nKKLokxvBiFcpnhBd3Jz",
+        "album": "Decimate"
+    },
+    {
+        "artists": "1788-L",
+        "name": "WASP.exe",
+        "url": "https://open.spotify.com/track/1Ytr6ISbHyHItCERCnqgTe",
+        "album": "WASP.exe"
+    },
+    {
         "artists": "Post Malone, Morgan Wallen",
         "name": "I Had Some Help (Feat. Morgan Wallen)",
         "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP",
@@ -3264,7 +3360,7 @@
         "album": "Day & Night EP"
     },
     {
-        "artists": "joegarratt, Trinergy",
+        "artists": "Trinergy, joegarratt",
         "name": "On My Own",
         "url": "https://open.spotify.com/track/0l95J8bYB77qwUkWKt3bwh",
         "album": "On My Own"
@@ -4558,12 +4654,6 @@
         "name": "The Realm",
         "url": "https://open.spotify.com/track/7HLiJlhWSkdyI2JXiY1oBz",
         "album": "The Realm"
-    },
-    {
-        "artists": "Downlink",
-        "name": "Bass War",
-        "url": "https://open.spotify.com/track/7IBgeY65xRyq4UzKVUACN6",
-        "album": "Bass War"
     },
     {
         "artists": "Ghastly",
