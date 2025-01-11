@@ -1,5 +1,29 @@
 [
     {
+        "artists": "QUATTROTEQUE, Rayyea",
+        "name": "E.T.",
+        "url": "https://open.spotify.com/track/7rji3pwPqPCUVX2flQw8Zj",
+        "album": "E.T."
+    },
+    {
+        "artists": "Doruksen, Jayron, GEWOONRAVES",
+        "name": "Knock Knock - Doruksen Remix",
+        "url": "https://open.spotify.com/track/6PuRY4jycpPChvQm0XyDTn",
+        "album": "Knock Knock (Doruksen Remix)"
+    },
+    {
+        "artists": "SOTA, A.M.C",
+        "name": "Machete - A.M.C Remix",
+        "url": "https://open.spotify.com/track/70GmVhFKPO5icOVCjnCUaL",
+        "album": "Machete (A.M.C Remix)"
+    },
+    {
+        "artists": "skantia",
+        "name": "Yoyo Bop",
+        "url": "https://open.spotify.com/track/1jPUQm6P8XyTqYFEYnnTYT",
+        "album": "Yoyo Bop"
+    },
+    {
         "artists": "Eli Brown",
         "name": "Be The One",
         "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW",
@@ -3318,7 +3342,7 @@
         "album": "Stamp On The Ground"
     },
     {
-        "artists": "Bailo, CIISNERO",
+        "artists": "CJ, Bailo",
         "name": "Polka Bounce (Bailo Remix)",
         "url": "https://open.spotify.com/track/3GK11VVG1UcKi4DzYKLKWu",
         "album": "Polka Bounce The Remixes"
