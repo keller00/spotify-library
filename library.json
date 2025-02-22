@@ -1,5 +1,29 @@
 [
     {
+        "artists": "Future, Metro Boomin, Kendrick Lamar",
+        "name": "Like That",
+        "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf",
+        "album": "WE DON'T TRUST YOU"
+    },
+    {
+        "artists": "RayRay, DJ Mii, CHYL",
+        "name": "I Think I Like You (feat. CHYL)",
+        "url": "https://open.spotify.com/track/5g25NbR1XTe48Wmz17rh7R",
+        "album": "I Think I Like You (feat. CHYL)"
+    },
+    {
+        "artists": "Bou, B Live",
+        "name": "Nan Slapper",
+        "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj",
+        "album": "Nan Slapper"
+    },
+    {
+        "artists": "BUNT., Elley Duhé",
+        "name": "Lost My Mind (Wake Up)",
+        "url": "https://open.spotify.com/track/3gCOHPzD8BICRM5xR1XBQS",
+        "album": "Levi Don't Do It"
+    },
+    {
         "artists": "Black Tiger Sex Machine, Hyro The Hero",
         "name": "Warriors",
         "url": "https://open.spotify.com/track/0v1CnAGuki3f7kPAwMBbvs",
@@ -1278,7 +1302,7 @@
         "album": "Move To The Beat Like"
     },
     {
-        "artists": "GHENGAR, Ghastly",
+        "artists": "Ghastly, GHENGAR",
         "name": "FINAL BOSS",
         "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA",
         "album": "FINAL BOSS"
