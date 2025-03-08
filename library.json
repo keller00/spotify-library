@@ -1,5 +1,23 @@
 [
     {
+        "artists": "Dua Lipa",
+        "name": "Love Again",
+        "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB",
+        "album": "Future Nostalgia"
+    },
+    {
+        "artists": "LISA, Future",
+        "name": "FXCK UP THE WORLD (feat. Future)",
+        "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt",
+        "album": "Alter Ego"
+    },
+    {
+        "artists": "VOILÀ",
+        "name": "Figure You Out",
+        "url": "https://open.spotify.com/track/2bFGGsScXp2Tu10jKMCKO6",
+        "album": "Long Story Short"
+    },
+    {
         "artists": "nimino",
         "name": "I Only Smoke When I Drink",
         "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR",
