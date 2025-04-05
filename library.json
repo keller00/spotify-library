@@ -1,5 +1,47 @@
 [
     {
+        "artists": "Skrillex",
+        "name": "FRICKY VIP",
+        "url": "https://open.spotify.com/track/15PZNf1AbjCL6EdeTC21jY",
+        "album": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3"
+    },
+    {
+        "artists": "Skrillex",
+        "name": "REDLINE DASH",
+        "url": "https://open.spotify.com/track/2EiGLWYEH6x79f9ir0VEah",
+        "album": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3"
+    },
+    {
+        "artists": "Skrillex",
+        "name": "ANDY",
+        "url": "https://open.spotify.com/track/3KVNGp2Qf1Y5eI2cAq5YHA",
+        "album": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3"
+    },
+    {
+        "artists": "Skrillex, swedm®",
+        "name": "BABY ROYAL",
+        "url": "https://open.spotify.com/track/5hCLGxjsHDK9sc3CA5gUFD",
+        "album": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3"
+    },
+    {
+        "artists": "Skrillex, Boys Noize, Dylan Brady",
+        "name": "ZEET NOISE",
+        "url": "https://open.spotify.com/track/4VEEeQbtROwKArwA0FWXUp",
+        "album": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3"
+    },
+    {
+        "artists": "Skrillex, Virtual Riot, Nakeesha",
+        "name": "MIRCHI TEST",
+        "url": "https://open.spotify.com/track/6c1UuZY7krEHMqxogCkvAw",
+        "album": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3"
+    },
+    {
+        "artists": "Skrillex, Space Laces",
+        "name": "RECOVERY",
+        "url": "https://open.spotify.com/track/0WWejIIgnkDUi90GOzwZWr",
+        "album": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3"
+    },
+    {
         "artists": "100 gecs",
         "name": "Dumbest Girl Alive",
         "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH",
@@ -763,9 +805,9 @@
     },
     {
         "artists": "New Beat Order, Lonelysoul., TECHNO KING, ROXANA, Bladez",
-        "name": "Tokyo Drift - HYPERTECHNO",
+        "name": "Tokyo Drift",
         "url": "https://open.spotify.com/track/6doNGHw7rSmtNgJ5Of31yq",
-        "album": "Tokyo Drift (HYPERTECHNO)"
+        "album": "Tokyo Drift"
     },
     {
         "artists": "BLVCK KARIBOU",
