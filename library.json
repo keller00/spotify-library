@@ -1,6 +1,12 @@
 [
     {
-        "artists": "MilleniumKid, JBS, elMefti, Holy Priest",
+        "artists": "BARELY ALIVE",
+        "name": "chicken jockey",
+        "url": "https://open.spotify.com/track/78HzQfpDOvhCLyuAVZTb0g",
+        "album": "chicken jockey"
+    },
+    {
+        "artists": "MilleniumKid, JBS, Holy Priest, elMefti",
         "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
         "url": "https://open.spotify.com/track/4pRAG3h4ZTfyEhRMytddzd",
         "album": "Vielleicht Vielleicht (Holy Priest & elMefti Remix)"
@@ -204,7 +210,7 @@
         "album": "Trouble"
     },
     {
-        "artists": "Dr. Fresch, House Call",
+        "artists": "Dr. Fresch",
         "name": "Armageddon",
         "url": "https://open.spotify.com/track/71hBq5pcZeN0tfpiJiDY6c",
         "album": "Armageddon"
@@ -1038,7 +1044,7 @@
         "album": "Prada"
     },
     {
-        "artists": "Dr. Fresch",
+        "artists": "Dr. Fresch, House Call",
         "name": "Bricks",
         "url": "https://open.spotify.com/track/7Fh5Q7Hg1H7CX1jVQY2Dgm",
         "album": "Bricks"
@@ -1140,7 +1146,7 @@
         "album": "Planet Cyclops"
     },
     {
-        "artists": "DEVOWR., AK RENNY",
+        "artists": "DEVOWR., AK RENNY, House Call",
         "name": "The One",
         "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R",
         "album": "The One"
