@@ -1,15 +1,21 @@
 [
     {
+        "artists": "Sum 41",
+        "name": "Still Waiting",
+        "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c",
+        "album": "Does This Look Infected?"
+    },
+    {
+        "artists": "Martin Garrix, Lauv",
+        "name": "MAD",
+        "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH",
+        "album": "MAD"
+    },
+    {
         "artists": "Dom Dolla",
         "name": "girl$",
         "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr",
         "album": "girl$"
-    },
-    {
-        "artists": "Tokyo Machine, Teminite, Boom Kitty",
-        "name": "BUSTED",
-        "url": "https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9",
-        "album": "BUSTED"
     },
     {
         "artists": "JVNA",
