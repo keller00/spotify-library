@@ -1,5 +1,23 @@
 [
     {
+        "artists": "BLACKPINK",
+        "name": "JUMP",
+        "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY",
+        "album": "JUMP"
+    },
+    {
+        "artists": "Lady Gaga",
+        "name": "Bloody Mary",
+        "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA",
+        "album": "Born This Way (Special Edition)"
+    },
+    {
+        "artists": "SVDDEN DEATH, beastboi.",
+        "name": "Shallow Land Burial - beastboi. Remix",
+        "url": "https://open.spotify.com/track/0lkU7opsj9odzNNmBQ9VSP",
+        "album": "VOYD Vol. 2.5 (PART II)"
+    },
+    {
         "artists": "Kayzo, WesGhost",
         "name": "Grave",
         "url": "https://open.spotify.com/track/3TbzrpJIkSoicguKWNHcSh",
