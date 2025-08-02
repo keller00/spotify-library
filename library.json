@@ -1,5 +1,17 @@
 [
     {
+        "artists": "Getter, SXMPRA",
+        "name": "Born 2 Stunt",
+        "url": "https://open.spotify.com/track/3ppc8QUlSaBrTFb81BjuvN",
+        "album": "Born 2 Stunt"
+    },
+    {
+        "artists": "HI-LO, Eli Brown",
+        "name": "Ride or Die - Hard Mix",
+        "url": "https://open.spotify.com/track/37Go3Fcg8DXvtLrWbaMgMN",
+        "album": "Ride or Die (Hard Mix)"
+    },
+    {
         "artists": "Lady Gaga",
         "name": "Judas",
         "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c",
@@ -2188,12 +2200,6 @@
         "name": "RIP",
         "url": "https://open.spotify.com/track/17dPQMxsqyWBlNI9mSyAmu",
         "album": "RIP"
-    },
-    {
-        "artists": "Tyraz",
-        "name": "Smog",
-        "url": "https://open.spotify.com/track/1G3syWejeOM1epqNaRIkIa",
-        "album": "Smog"
     },
     {
         "artists": "Jkyl & Hyde",
