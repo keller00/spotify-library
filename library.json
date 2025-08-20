@@ -1,5 +1,23 @@
 [
     {
+        "artists": "Dack Janiels, Eyelander",
+        "name": "IDENTITY CRISIS",
+        "url": "https://open.spotify.com/track/69rO2sL6eq047qyCTvw7Uk",
+        "album": "IDENTITY CRISIS"
+    },
+    {
+        "artists": "Noisia, The Upbeats, Mefjus",
+        "name": "Dustup - Mefjus Remix",
+        "url": "https://open.spotify.com/track/54K7hHMBnraimv993nTC5M",
+        "album": "Dustup (Mefjus Remix)"
+    },
+    {
+        "artists": "My Chemical Romance",
+        "name": "Welcome to the Black Parade",
+        "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW",
+        "album": "The Black Parade"
+    },
+    {
         "artists": "Bad Bunny, Bomba Estéreo",
         "name": "Ojitos Lindos",
         "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW",
@@ -930,7 +948,7 @@
         "album": "DUBSTEP DISCO"
     },
     {
-        "artists": "G-Rex, Hairitage",
+        "artists": "G-REX, Hairitage",
         "name": "Pocket Change",
         "url": "https://open.spotify.com/track/2Y5SakTfLyezs5dBElmc78",
         "album": "Pocket Change"
@@ -1296,7 +1314,7 @@
         "album": "Crush"
     },
     {
-        "artists": "PEEKABOO, Flowdan, Skrillex, G-Rex",
+        "artists": "PEEKABOO, Flowdan, Skrillex, G-REX",
         "name": "BADDERS",
         "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh",
         "album": "BADDERS"
