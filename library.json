@@ -1,5 +1,23 @@
 [
     {
+        "artists": "HI-LO, Eli Brown",
+        "name": "Ride or Die - Hard Mix",
+        "url": "https://open.spotify.com/track/37Go3Fcg8DXvtLrWbaMgMN",
+        "album": "Ride or Die (Hard Mix)"
+    },
+    {
+        "artists": "GHENGAR, Ghastly",
+        "name": "HASH SLINGING SLASHER",
+        "url": "https://open.spotify.com/track/5JJ0nZ7zlBbHIKMAhxH6Wb",
+        "album": "SACRIFICE EP"
+    },
+    {
+        "artists": "Kayzo, Sullivan King, Papa Roach",
+        "name": "DOMINATION",
+        "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6",
+        "album": "DOMINATION"
+    },
+    {
         "artists": "Major Lazer, Diplo, Busy Signal, Kybba",
         "name": "GANGSTA",
         "url": "https://open.spotify.com/track/6FE2GKFS8DqrPZx45AOuyQ",
@@ -46,12 +64,6 @@
         "name": "Born 2 Stunt",
         "url": "https://open.spotify.com/track/3ppc8QUlSaBrTFb81BjuvN",
         "album": "Born 2 Stunt"
-    },
-    {
-        "artists": "HI-LO, Eli Brown",
-        "name": "Ride or Die - Hard Mix",
-        "url": "https://open.spotify.com/track/37Go3Fcg8DXvtLrWbaMgMN",
-        "album": "Ride or Die (Hard Mix)"
     },
     {
         "artists": "Lady Gaga",
