@@ -1,5 +1,11 @@
 [
     {
+        "artists": "Lost Frequencies, Tom Odell",
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco",
+        "album": "Black Friday (pretty like the sun)"
+    },
+    {
         "artists": "Nostalgix, DEV",
         "name": "Real Girls",
         "url": "https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy",
@@ -61,9 +67,9 @@
     },
     {
         "artists": "Skrillex, ISOxo",
-        "name": "Fuze",
+        "name": "fuze",
         "url": "https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH",
-        "album": "Fuze"
+        "album": "fuze"
     },
     {
         "artists": "John Summit, Britney Spears",
