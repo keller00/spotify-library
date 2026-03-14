@@ -1,5 +1,23 @@
 [
     {
+        "artists": "KERTSCHER, Kastuvas",
+        "name": "The Way I Are",
+        "url": "https://open.spotify.com/track/7rV0bkkOVM0qpVGDQngPk6",
+        "album": "The Way I Are"
+    },
+    {
+        "artists": "Kastuvas, Emie",
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/track/3JKFaGZxLI0RY2J7AyRSon",
+        "album": "Keep on Moving"
+    },
+    {
+        "artists": "Kastuvas",
+        "name": "Flashback",
+        "url": "https://open.spotify.com/track/2XO4hilIfKBdTA6nNxm24B",
+        "album": "Flashback"
+    },
+    {
         "artists": "Valentino Khan, Chris Lorenzo",
         "name": "Flip The Switch",
         "url": "https://open.spotify.com/track/7rBUiBC1mXwNYzn53foDUB",
@@ -67,7 +85,7 @@
     },
     {
         "artists": "Space Laces",
-        "name": "KEEP IT COOL",
+        "name": "KEEP IT COOL (MIX CUT)",
         "url": "https://open.spotify.com/track/3aJYTbibvHA4DSQ5Zk0S6v",
         "album": "Vaultage 004"
     },
@@ -91,7 +109,7 @@
     },
     {
         "artists": "Space Laces",
-        "name": "CYBER STEP",
+        "name": "CYBER STEP (MIX CUT)",
         "url": "https://open.spotify.com/track/6xI8IJaSidJ2FD9700MewR",
         "album": "Vaultage 004"
     },
