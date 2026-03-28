@@ -1,5 +1,17 @@
 [
     {
+        "artists": "Skrillex, Young Miko",
+        "name": "Duro",
+        "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS",
+        "album": "Duro"
+    },
+    {
+        "artists": "Steve Angello, Body Ocean, Pusha T",
+        "name": "Freedom - Body Ocean Remix",
+        "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ",
+        "album": "Freedom (Body Ocean Remix)"
+    },
+    {
         "artists": "KERTSCHER, Kastuvas",
         "name": "The Way I Are",
         "url": "https://open.spotify.com/track/7rV0bkkOVM0qpVGDQngPk6",
@@ -30,7 +42,7 @@
         "album": "Run That"
     },
     {
-        "artists": "Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+        "artists": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
         "name": "Victory Lap Five",
         "url": "https://open.spotify.com/track/3pcQwtDHjxTaabkksj5HlJ",
         "album": "USB"
@@ -114,7 +126,7 @@
         "album": "Vaultage 004"
     },
     {
-        "artists": "Spag Heddy",
+        "artists": "SPAG",
         "name": "Stomper",
         "url": "https://open.spotify.com/track/0E0Zt6iFrSZn0ImqcIPeJU",
         "album": "Stomper"
@@ -5268,7 +5280,7 @@
         "album": "Neon Grave Remixed"
     },
     {
-        "artists": "Spag Heddy",
+        "artists": "SPAG",
         "name": "Bring It",
         "url": "https://open.spotify.com/track/7pspftlgg7QZ2xsGmXsAZl",
         "album": "Meatball Mafia EP"
@@ -5916,7 +5928,7 @@
         "album": "Monstercat Uncaged Vol. 4"
     },
     {
-        "artists": "SLANDER, Eric Leva, Spag Heddy",
+        "artists": "SLANDER, Eric Leva, SPAG",
         "name": "Superhuman - Spag Heddy Remix",
         "url": "https://open.spotify.com/track/60yqmnnHgOxFkunptxS6oP",
         "album": "Monstercat Uncaged Vol. 4"
@@ -6348,7 +6360,7 @@
         "album": "Lost Lands 2017 Compilation"
     },
     {
-        "artists": "Spag Heddy, Tisoki",
+        "artists": "SPAG, Tisoki",
         "name": "Jok",
         "url": "https://open.spotify.com/track/0WXpzuD2wIx4F1We9B0dB6",
         "album": "Lost Lands 2017 Compilation"
@@ -7098,7 +7110,7 @@
         "album": "Shellshock Kamikaze"
     },
     {
-        "artists": "Spag Heddy",
+        "artists": "SPAG",
         "name": "Hugs and Stuff",
         "url": "https://open.spotify.com/track/00fLB3tcpXr3Yv7dgpC3os",
         "album": "Shellshock Kamikaze"
@@ -8550,7 +8562,7 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
-        "artists": "Spag Heddy",
+        "artists": "SPAG",
         "name": "Onvang",
         "url": "https://open.spotify.com/track/5QNXhYPqYaXaeJaDT2cKOx",
         "album": "Excision 2015 Mix Compilation"
@@ -8628,7 +8640,7 @@
         "album": "Excision 2015 Mix Compilation"
     },
     {
-        "artists": "Spag Heddy",
+        "artists": "SPAG",
         "name": "Kick It",
         "url": "https://open.spotify.com/track/7CdXSorz24kixOLVjStjAW",
         "album": "Excision 2015 Mix Compilation"
